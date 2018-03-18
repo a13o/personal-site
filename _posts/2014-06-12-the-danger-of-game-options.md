@@ -6,7 +6,7 @@ categories: game-design
 ---
 <p>There's a game night at the Folsom St Foundry every Tuesday in San Francisco. <a title="Showdown e-sports" href="https://www.facebook.com/showdownesports" target="_blank">Organizers</a> fill the block-sized event space with board games strewn across a dozen tables and hook up over twenty consoles running popular multiplayer games. In such a competitive mecca, could you conceive a scenario where two game experts are not able to play each other fairly?</p>
 <p>I can, and it's due to the danger of game options.<br />
-<!--more--><br />
+<br />
 I play <a title="TowerFall: Ascension" href="http://www.towerfall-game.com/" target="_blank">TowerFall</a> at this game night every time I go. It's a game where you're an archer and you try to kill the other archers. It was designed by <a title="Matt Thorson on Twitter" href="https://twitter.com/mattthorson" target="_blank">Matt Thorson</a> to play like any competitive fighter: matches are primarily about positioning with lots of room for head games, counters, and complex feats of dexterity.</p>
 <p style="text-align: center;"><img class="size-full wp-image-306 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf.png" alt="tf" width="513" height="384" /><em>This is TowerFall</em></p>
 <p>Before talking generally about the danger of game options let's dive into a specific case study using TowerFall.</p>
