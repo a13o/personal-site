@@ -6,7 +6,7 @@ categories: game-design
 ---
 Clash Royale is Supercell's latest hit and boy is it packing a surprise! Supercell has invented a brand new kind of energy system that doesn't punish players like traditional energy systems do. If you haven't played Clash Royale, it's a competitive game where two players go head-to-head in real time using customizable armies. Winning a match awards a locked chest and opening these chests gives you cards to improve your army. Chests take at least 3 hours to open, must be opened one at a time, and there's only room to hold four of them. This combination has the effect of creating an implicit energy system. Other deconstructions aren't going deep enough to study the relevance of this new design so let's see what we can learn!
 
-![photo of clash royale home screen](/assets/Energy-Systems-Are-Back-Clash-Royale.jpg)
+![photo of clash royale home screen](/assets/cr-energy-systems/Energy-Systems-Are-Back-Clash-Royale.jpg)
 
 To give you a visual reference point, in the screenshot above all four of my chest slots are full. I'm unlocking a silver chest in the second slot which will be open in another two-ish hours; or I could pay 13 gems (about $0.11 USD). I also have a gold chest with rarer cards in it, but it takes eight hours or 48 gems (about $0.38 USD) so I'll save that for when I go to bed. There's little incentive to play another match right now because there will be nowhere to put my chest reward and I'll have wasted it. So you could say I have zero energy and I'll get 1 energy back when that chest finishes opening.
 
@@ -14,7 +14,7 @@ As you can see, energy in Clash Royale doesn't behave like energy in other games
 
 Let's start with a familiar energy system like the one found in Candy Crush Saga.
 
-![candy crush machination](/assets/Energy-Systems-Are-Back-Clash-Royale-1.jpg)
+![candy crush machination](/assets/cr-energy-systems/Energy-Systems-Are-Back-Clash-Royale-1.jpg)
 
 1. The labeled circle at the top of the diagram is the player's pool of energy. Players can have up to 5 energy in Candy Crush.
 1. Anything drawn with a double outline represents player interaction. The decision diamond labeled ';Play' and the triangle labeled 'Wait' are both player actions.
@@ -27,7 +27,7 @@ This simple diagram simulates Candy Crush's energy system perfectly. When you lo
 
 Now let's look at a similar diagram for Clash Royale!
 
-![clash royale machination](/assets/Energy-Systems-Are-Back-Clash-Royale-2.jpg)
+![clash royale machination](/assets/cr-energy-systems/Energy-Systems-Are-Back-Clash-Royale-2.jpg)
 
 Royale's energy diagram is slightly more complex than Candy Crush's but not by much.
 
@@ -39,7 +39,7 @@ Royale's energy diagram is slightly more complex than Candy Crush's but not by m
 
 Now that we've had our salad, it's time for the meat and potatoes! What can we learn about each system with these diagrams? Here they are again next to each other for easy comparison.
 
-![comparison of machinations](/assets/Energy-Systems-Are-Back-Clash-Royale-3.jpg)
+![comparison of machinations](/assets/cr-energy-systems/Energy-Systems-Are-Back-Clash-Royale-3.jpg)
 
 _(If you want an interactive version of the diagrams I've hosted one [here](/mirrors/clashroyalmachinations/){:target="_blank"}.)_
 

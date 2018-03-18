@@ -14,13 +14,13 @@ Or is it?
 
 While I write this, Bloodstained is in its first two days of Kickstarter and the response has been meteoric. Here, you can look at the data for yourself on [KickTraq](https://www.kicktraq.com/projects/iga/bloodstained-ritual-of-the-night/){:target="_blank"}.
 
-![](/assets/bloodstained_minichart.png)
+![](/assets/kickstarter-greenlight/bloodstained_minichart.png)
 
 _(Day 3 is partial data)_
 
 That's over 3x the goal already, which sounds impressive until you look at the goal. $500,000 USD to build a video game for both major consoles, and Steam too. Here's a <del>screenshot</del>, _ahem_, artist's rendition of what the game will look like.
 
-![](/assets/bloodstained_concept.jpg)
+![](/assets/kickstarter-greenlight/bloodstained_concept.jpg)
 
 It's being developed by Inti Creates, a high profile Japanese development studio. There's voice actors listed for two languages. This is not a small production. $500,000 will not deliver the promised game and if you believe you could assemble a team to make this game for that much money you might have a lucrative future in video game development.
 
@@ -28,7 +28,7 @@ Don't believe me? Let's do some math. The expected delivery date listed on the K
 
 So what's going on here? Bloodstained is willing to form a legally binding agreement to deliver this game in 2 years for only $500k. This is impossible. Maybe there's more money we aren't being told about? The first hint is dropped in the video.
 
-![](/assets/bloodstained_vid1.jpg)
+![](/assets/kickstarter-greenlight/bloodstained_vid1.jpg)
 
 _"We've found partners willing to support us with funding if we can prove a demand for this style of game"_
 
@@ -64,7 +64,7 @@ No Kickstarter? No publisher. Kickstarter isn't an alternative to publisher fund
 
 I know it sounds great having Joe Gamer and his friends acting as the greenlight process for what publishers do, but Joe and most other backers don't know jack about greenlighting games. What do you think Joe does with the following concept art for a new genre:
 
-![](/assets/bloodstained_marioconcept.png)
+![](/assets/kickstarter-greenlight/bloodstained_marioconcept.png)
 
 Dear readers, Joe just cancelled Super Mario Bros and ended Shigeru Miyamoto's career.
 
