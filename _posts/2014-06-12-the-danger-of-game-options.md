@@ -10,7 +10,7 @@ I can, and it's due to the danger of game options.<br />
 <br />
 I play <a title="TowerFall: Ascension" href="http://www.towerfall-game.com/" target="_blank">TowerFall</a> at this game night every time I go. It's a game where you're an archer and you try to kill the other archers. It was designed by <a title="Matt Thorson on Twitter" href="https://twitter.com/mattthorson" target="_blank">Matt Thorson</a> to play like any competitive fighter: matches are primarily about positioning with lots of room for head games, counters, and complex feats of dexterity.
 
-<p style="text-align: center;"><img class="size-full wp-image-306 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf.png" alt="tf" width="513" height="384" /><em>This is TowerFall</em>
+<img class="size-full wp-image-306 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf.png" alt="tf" width="513" height="384" /><em>This is TowerFall</em>
 
 Before talking generally about the danger of game options let's dive into a specific case study using TowerFall.
 
@@ -95,7 +95,7 @@ just make it a preference where people can choose 25, 50, or<br />
 100." That's the easy way out though. Just make a decision.<br />
 Preferences are a way to avoid making tough decisions.
 </blockquote>
-<p style="text-align: center;"><img class="size-full wp-image-338 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/gmail_options.png" alt="gmail_options" width="524" height="439" /><em>Gmail hasn't read the 37Signals book</em>
+<img class="size-full wp-image-338 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/gmail_options.png" alt="gmail_options" width="524" height="439" /><em>Gmail hasn't read the 37Signals book</em>
 
 You should strive to have as few options in your game as possible. It's up to you as the designer to make the right call for the best play experience. If you are unsure which way to go on a particular option you might need to playtest with friends or spend a week with each option while you develop other features. Eventually you'll gain mastery of the topic and be able to make the right call.
 
