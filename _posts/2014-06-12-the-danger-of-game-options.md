@@ -14,7 +14,8 @@ I play <a title="TowerFall: Ascension" href="http://www.towerfall-game.com/" tar
 
 Before talking generally about the danger of game options let's dive into a specific case study using TowerFall.
 
-<h3>Fighting Game 101: Threatened Space</h3>
+### Fighting Game 101: Threatened Space
+
 As a fighting game student you learn about concepts like positioning and threatened space. Here is a screenshot from the Super Street Fighter II: Turbo tutorial made by <a title="David Sirlin on Twitter" href="https://twitter.com/Sirlin" target="_blank">David Sirlin</a>, a prolific writer on competitive fighting game strategy. You can watch the whole tutorial video on <a title="Super Turbo Tutorial 1" href="https://www.youtube.com/watch?v=d0cFs5mHQC4" target="_blank">YouTube</a>.
 
 <img class="size-full wp-image-305 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/st_threatened_space.png" alt="st_threatened_space" width="376" height="256" />
@@ -35,7 +36,8 @@ That's a pretty small amount of space. In the Street Fighter example, Ryu was th
 
 How does one little arrow threaten all that space? TowerFall gives each arrow a slight amount of heat-seeking. If an opponent gets too close the arrow will begin to alter its velocity to lean towards the opponent. It would be a bad idea for the green archer to go anywhere into that triangle.
 
-<h3>Fighting Game 102: The Scrub</h3>
+### Fighting Game 102: The Scrub
+
 The next fighting game concept you learn is the scrub. Scrub is not simply a derogatory term used to describe players with little skill. The scrub is well defined in Sirlin's <a title="Playing to Win" href="http://www.sirlin.net/ptw" target="_blank">Playing to Win</a> book, available for free online. From the book:
 
 <blockquote><span style="color: #323232;">A scrub is a player who is handicapped by self-imposed rules that the game knows nothing about.</span>
@@ -44,7 +46,8 @@ If you were playing TowerFall with a scrub they might complain that an arrow whi
 
 <iframe style="display: block; margin-left: auto; margin-right: auto;" src="http://gfycat.com/iframe/HighMagnificentAlbertosaurus" width="480" height="360" frameborder="0" scrolling="no"></iframe>
 
-<h3>Now Things Get Ugly</h3>
+### Now Things Get Ugly
+
 If all the scrub could do at this point is complain, the story would end. If they wish to continue playing TowerFall they have to make peace with seeking arrows. Unfortunately, TowerFall does just about the worst thing you could do in this situation. <b>TowerFall has a setting which disables seeking arrows.</b>
 
 <img class="size-full wp-image-315 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/no_seeking_variant.png" alt="no_seeking_variant" width="380" height="174" />
@@ -53,7 +56,8 @@ That setting legitimizes the scrub's complaint. They no longer have to learn. In
 
 When you allow players to undermine core design tenets, you fracture your player base. In TowerFall's case, you get experts who play with seeking arrows and experts who play without. Every kill now comes with a caveat: "In <em>my</em> rules that wouldn't kill me." The statement drips with superiority. No middle ground will ever be found between these players, they are simply incompatible.
 
-<h3>Balancing Accessibility with Competitive Goals</h3>
+### Balancing Accessibility with Competitive Goals
+
 Matt Thorson was concerned that including the No Seeking Arrows option would fracture the competitive community and in a twitter conversation revealed he almost removed the option as a result.
 
 <blockquote class="twitter-tweet" lang="en" data-conversation="none"><a href="https://twitter.com/yayitsandrew">@yayitsandrew</a> <a href="https://twitter.com/kylepulver">@kylepulver</a> yeah this is why I almost took No Seeking Arrows out in the final release
@@ -70,7 +74,8 @@ Keeping the option in the game negatively impacts the competitive scene but bene
 
 Unfortunately this solution is not without its flaws. I occasionally encounter scrubs who wish to play with No Seeking Arrows on the competitive level. As a fun design exercise, consider what modifications you would make to solve this issue.
 
-<h3>Options Shouldn't Mess With Core Design</h3>
+### Options Shouldn't Mess With Core Design
+
 So far we've gone into great detail on the TowerFall case study but you can probably think of lots of other games that fragmented their player base by providing options. Here's a few famous ones that come to mind:
 
 <ol>
@@ -80,7 +85,8 @@ So far we've gone into great detail on the TowerFall case study but you can prob
 </ol>
 In each of these games the main problem is that a game option was added which gives players control over the behavior of a core design tenet. Items are an integral part of balancing Smash Bros characters, kind of a global move-set that homogenizes the characters. Take items out and you end up with the current Smash Bros competitive scene, which is playable with only 8 of the 26 characters on 5 of the 29 stages. Choke points are necessary for tension in Team Fortress 2 maps and those choke points become unbalanced and never-ending when too many players spawn too quickly. Beer Pong's elbow rule is completely unenforceable without a replay camera and leads to plenty of arguments and animosity.
 
-<h3>So Don't Have Options</h3>
+### So Don't Have Options
+
 37Signals, the software development team behind Basecamp, published a book called <a title="Getting Real" href="https://basecamp.com/books/Getting%20Real.pdf" target="_blank">Getting Real</a> which covers their software design principles. Many of them are also great game design and development advice. Here is a relevant section on preferences:
 
 <blockquote>You&rsquo;re faced with a tough decision: how many messages do we<br />
@@ -93,7 +99,8 @@ Preferences are a way to avoid making tough decisions.
 
 You should strive to have as few options in your game as possible. It's up to you as the designer to make the right call for the best play experience. If you are unsure which way to go on a particular option you might need to playtest with friends or spend a week with each option while you develop other features. Eventually you'll gain mastery of the topic and be able to make the right call.
 
-<h3>Takeaway</h3>
+### Takeaway
+
 When designing a multiplayer game be aware that by providing game options, through nothing more than human nature, you are giving your players the tools they need to avoid playing with one another. You are actively working against the virality and social effects you are counting on to cultivate and grow a multiplayer scene. This is the danger of game options.
 
 As for the TowerFall design exercise I mentioned earlier, I think the best solution would have been to create two top level game modes called Competitive Versus and Arcade Versus. Competitive Versus provides no option controls and locks the options to the official tournament rules. Arcade Versus is the existing versus mode with options controls. This creates two environments that explicitly state their purpose upfront and allow Matt to have authoritative control over the competitive design vision.
