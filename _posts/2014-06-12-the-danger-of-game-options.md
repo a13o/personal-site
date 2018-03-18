@@ -1,20 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: The Danger of Game Options
-author:
-  display_name: Andrew Pellerano
-  login: admin
-  email: yayitsandrew@gmail.com
-  url: http://www.yayitsandrew.com
-author_login: admin
-author_email: yayitsandrew@gmail.com
-author_url: http://www.yayitsandrew.com
-wordpress_id: 303
-wordpress_url: http://yayitsandrew.com/?p=303
 date: '2014-06-12 06:01:50 -0700'
-date_gmt: '2014-06-12 14:01:50 -0700'
+categories: game-design
 ---
 <p>There's a game night at the Folsom St Foundry every Tuesday in San Francisco. <a title="Showdown e-sports" href="https://www.facebook.com/showdownesports" target="_blank">Organizers</a> fill the block-sized event space with board games strewn across a dozen tables and hook up over twenty consoles running popular multiplayer games. In such a competitive mecca, could you conceive a scenario where two game experts are not able to play each other fairly?</p>
 <p>I can, and it's due to the danger of game options.<br />
