@@ -32,14 +32,16 @@ Mission friggin' accomplished.
 
 <a href="https://chrome.google.com/webstore/detail/shut-up-everybody/fblbhjoaifndkejdmllpimdpgmhddheg" target="_blank">Get it from the Chrome Web Store by clicking here.</a>
 
-<h1>Unintended Consequences</h1>
+# Unintended Consequences
+
 The heuristic is a little overzealous. For example this entire blog post, written as a first person story, gets decimated. That's why the extension comes with a button in the address bar that you can click to toggle it on and off. It's also disabled by default on Facebook, where the whole point is to share I/me/my stories.
 
 I'm always on the lookout for ways to improve the heuristic. I've made it a lot better recently by ignoring certain DOM elements that are unlikely to contain user generated content; elements like forms, scripts, and links are now ignored.
 
 There's going to be an upper limit to what I can do with DOM parsing, however. There's no generic way to tell the difference between an informational statement like "My house is three blocks from the liquor store" and an inane opinion like "I can prove that Obama isn't an American." To fix that I'd have to enter the infinitely deep rabbit hole of grammatical analysis and set up a backend for the machine learning.
 
-<h1>Unintended Benefits</h1>
+# Unintended Benefits
+
 The overzealous nature of the heuristic hasn't been without benefit. A few of the blog sites I frequent ended up getting large parts of their <em>article content</em> redacted. I wasn't expecting that! The implications are profound. It turns out I'm reading lots of sites that I consider news sites, but are really opinion rags. What's worse is the articles that get their content redacted are the same ones that have the most pageviews and most comments.
 
 I've stumbled onto a seedy motivator in the world of online journalism. I have a solution to that too, which you can read in my blog post about <a href="http://yayitsandrew.com/creating-accountability-for-opinions-on-the-internet/">creating accountability for opinions on the internet</a>.

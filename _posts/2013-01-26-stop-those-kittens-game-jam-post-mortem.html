@@ -24,7 +24,8 @@ http://www.youtube.com/watch?v=I9QHZoEJDbQ<br />
 I thought it would be nice to do a little post-mortem on getting this game up and running on the OUYA in such a short time frame.<br />
 
 
-<h1>What Went Right</h1>
+# What Went Right
+
 ## 1. Pre-contest Pipeline Hacking
 
 I received my OUYA well before the contest was announced and I was excited to get a Hello World style app running. This led to my first major roadblock in OUYA development - my PC and my TV are on opposite sides of the same room. People on the forum were complaining that they couldn't configure their OUYA for remote deployment over wifi and I was running into the same trouble. I spent literally an entire weekend learning enough about Android devices to debug and fix this problem. (My efforts are documented <a href="http://forums.ouya.tv/discussion/comment/2510/#Comment_2510" target="_blank">here</a>.) If I hadn't done this before the contest started I would have been forced to either waste days on it or have a frustrating deploy process that involved unplugging and carrying the physical OUYA console back and forth hundreds of times.
@@ -39,7 +40,8 @@ Getting my friends involved was also great for morale. I started doing daily pro
 
 I've released dozens of titles in my half a decade in the games industry and by now I'm rather numb to the 'cool factor' of making a game. Working with OUYA was my first console and television experience, and putting something I made onto a TV and using a controller was triggering some primal game-making euphoria. It was one of those moments where you imagine yourself as a child gazing into a crystal ball at the future and thinking you'll turn into the most awesome person ever. I think this is actually a huge selling point that OUYA should figure out how to communicate to developers. I felt as welcomed to the platform as any other extremely open platform like flash player or mobile device. But it's a console, with a controller, on my TV! Your move, Microsoft, Sony, and Nintendo.
 
-<h1>What Went Wrong</h1>
+# What Went Wrong
+
 ## 1. I Used Cross-Platform Tech
 
 It was important to me that I learn how to use some cross-platform technology so that I could simultaneously target flash player and mobile devices. The OUYA seemed like a good opportunity to get started, so I settled on HaXe+NME. The upside of this approach was very valuable, I could develop and debug in flash where I am lightning quick and then deploy to android when I'm ready to test the functionality there. Unfortunately this upside was outweighed by all the pitfalls I ran into. I probably spent half my total development time fudging with getting the controller to communicate over JNI, getting the framerate over 5fps because nobody's really tested NME on an OUYA before, bumping into esoteric limitations where a feature works on flash but not on native, etc.
