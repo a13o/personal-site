@@ -89,10 +89,10 @@ In each of these games the main problem is that a game option was added which gi
 
 37Signals, the software development team behind Basecamp, published a book called <a title="Getting Real" href="https://basecamp.com/books/Getting%20Real.pdf" target="_blank">Getting Real</a> which covers their software design principles. Many of them are also great game design and development advice. Here is a relevant section on preferences:
 
-<blockquote>You&rsquo;re faced with a tough decision: how many messages do we<br />
-include on each page? Your first inclination may be to say, &ldquo;Let&rsquo;s<br />
+<blockquote>You're faced with a tough decision: how many messages do we<br />
+include on each page? Your first inclination may be to say, "Let's<br />
 just make it a preference where people can choose 25, 50, or<br />
-100.&rdquo; That&rsquo;s the easy way out though. Just make a decision.<br />
+100." That's the easy way out though. Just make a decision.<br />
 Preferences are a way to avoid making tough decisions.
 </blockquote>
 <p style="text-align: center;"><img class="size-full wp-image-338 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/gmail_options.png" alt="gmail_options" width="524" height="439" /><em>Gmail hasn't read the 37Signals book</em>
