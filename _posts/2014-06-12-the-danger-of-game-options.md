@@ -48,7 +48,7 @@ If you were playing TowerFall with a scrub they might complain that an arrow whi
 
 ### Now Things Get Ugly
 
-If all the scrub could do at this point is complain, the story would end. If they wish to continue playing TowerFall they have to make peace with seeking arrows. Unfortunately, TowerFall does just about the worst thing you could do in this situation. <b>TowerFall has a setting which disables seeking arrows.</b>
+If all the scrub could do at this point is complain, the story would end. If they wish to continue playing TowerFall they have to make peace with seeking arrows. Unfortunately, TowerFall does just about the worst thing you could do in this situation. **TowerFall has a setting which disables seeking arrows.**
 
 <img class="size-full wp-image-315 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/no_seeking_variant.png" alt="no_seeking_variant" width="380" height="174" />
 
