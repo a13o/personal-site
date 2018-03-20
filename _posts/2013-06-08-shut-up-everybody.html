@@ -16,8 +16,8 @@ wordpress_url: http://yayitsandrew.com/?p=213
 date: '2013-06-08 09:42:44 -0700'
 date_gmt: '2013-06-08 17:42:44 -0700'
 ---
-The internet is full of opinions. If you're like me you can't help but wade into the comments thread on a controversial blog post. It's a guilty pleasure. Wouldn't it be nice if a computer could detect the most inane opinions and protect you from seeing them at all?<br />
-<br />
+The internet is full of opinions. If you're like me you can't help but wade into the comments thread on a controversial blog post. It's a guilty pleasure. Wouldn't it be nice if a computer could detect the most inane opinions and protect you from seeing them at all?
+
 I developed a simple heuristic to determine if something is inane. If a block of text contains 'I', 'me', or 'my' we can say with acceptable confidence that that block of text is an opinion. This completely purges the internet of anecdotes and therefore anecdotal evidence -- one of the most inane and useless arguments someone can make.
 
 Next I built that heuristic in javascript and wrote a Chrome extension that will scan any page you're on and hide the offending text. At first it just made the text node invisible, but that's not fun. With a little more javascript we can have the plugin blacking out lines of text, like an excited FBI intern declassifying her first document. It looks like this:

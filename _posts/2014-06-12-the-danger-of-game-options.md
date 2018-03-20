@@ -6,8 +6,8 @@ categories: game-design
 ---
 There's a game night at the Folsom St Foundry every Tuesday in San Francisco. <a title="Showdown e-sports" href="https://www.facebook.com/showdownesports" target="_blank">Organizers</a> fill the block-sized event space with board games strewn across a dozen tables and hook up over twenty consoles running popular multiplayer games. In such a competitive mecca, could you conceive a scenario where two game experts are not able to play each other fairly?
 
-I can, and it's due to the danger of game options.<br />
-<br />
+I can, and it's due to the danger of game options.
+
 I play <a title="TowerFall: Ascension" href="http://www.towerfall-game.com/" target="_blank">TowerFall</a> at this game night every time I go. It's a game where you're an archer and you try to kill the other archers. It was designed by <a title="Matt Thorson on Twitter" href="https://twitter.com/mattthorson" target="_blank">Matt Thorson</a> to play like any competitive fighter: matches are primarily about positioning with lots of room for head games, counters, and complex feats of dexterity.
 
 <img class="size-full wp-image-306 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf.png" alt="tf" width="513" height="384" />_This is TowerFall_
@@ -89,10 +89,10 @@ In each of these games the main problem is that a game option was added which gi
 
 37Signals, the software development team behind Basecamp, published a book called <a title="Getting Real" href="https://basecamp.com/books/Getting%20Real.pdf" target="_blank">Getting Real</a> which covers their software design principles. Many of them are also great game design and development advice. Here is a relevant section on preferences:
 
-<blockquote>You're faced with a tough decision: how many messages do we<br />
-include on each page? Your first inclination may be to say, "Let's<br />
-just make it a preference where people can choose 25, 50, or<br />
-100." That's the easy way out though. Just make a decision.<br />
+<blockquote>You're faced with a tough decision: how many messages do we
+include on each page? Your first inclination may be to say, "Let's
+just make it a preference where people can choose 25, 50, or
+100." That's the easy way out though. Just make a decision.
 Preferences are a way to avoid making tough decisions.
 </blockquote>
 <img class="size-full wp-image-338 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/gmail_options.png" alt="gmail_options" width="524" height="439" />_Gmail hasn't read the 37Signals book_
