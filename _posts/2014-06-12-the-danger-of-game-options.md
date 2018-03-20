@@ -10,7 +10,7 @@ I can, and it's due to the danger of game options.<br />
 <br />
 I play <a title="TowerFall: Ascension" href="http://www.towerfall-game.com/" target="_blank">TowerFall</a> at this game night every time I go. It's a game where you're an archer and you try to kill the other archers. It was designed by <a title="Matt Thorson on Twitter" href="https://twitter.com/mattthorson" target="_blank">Matt Thorson</a> to play like any competitive fighter: matches are primarily about positioning with lots of room for head games, counters, and complex feats of dexterity.
 
-<img class="size-full wp-image-306 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf.png" alt="tf" width="513" height="384" /><em>This is TowerFall</em>
+<img class="size-full wp-image-306 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf.png" alt="tf" width="513" height="384" />_This is TowerFall_
 
 Before talking generally about the danger of game options let's dive into a specific case study using TowerFall.
 
@@ -54,7 +54,7 @@ If all the scrub could do at this point is complain, the story would end. If the
 
 That setting legitimizes the scrub's complaint. They no longer have to learn. Instead they can say: "if the game lets you turn off seeking arrows, then it must be a valid way to play." In their mind, they have made TowerFall a more expert game by removing auto-aim for babies. In reality, they have undermined a core design tenet of the game. Remember that TowerFall only wishes to be a game about positioning and head games. It does not wish to be about parabolic trajectory simulation.
 
-When you allow players to undermine core design tenets, you fracture your player base. In TowerFall's case, you get experts who play with seeking arrows and experts who play without. Every kill now comes with a caveat: "In <em>my</em> rules that wouldn't kill me." The statement drips with superiority. No middle ground will ever be found between these players, they are simply incompatible.
+When you allow players to undermine core design tenets, you fracture your player base. In TowerFall's case, you get experts who play with seeking arrows and experts who play without. Every kill now comes with a caveat: "In _my_ rules that wouldn't kill me." The statement drips with superiority. No middle ground will ever be found between these players, they are simply incompatible.
 
 ### Balancing Accessibility with Competitive Goals
 
@@ -95,7 +95,7 @@ just make it a preference where people can choose 25, 50, or<br />
 100." That's the easy way out though. Just make a decision.<br />
 Preferences are a way to avoid making tough decisions.
 </blockquote>
-<img class="size-full wp-image-338 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/gmail_options.png" alt="gmail_options" width="524" height="439" /><em>Gmail hasn't read the 37Signals book</em>
+<img class="size-full wp-image-338 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/gmail_options.png" alt="gmail_options" width="524" height="439" />_Gmail hasn't read the 37Signals book_
 
 You should strive to have as few options in your game as possible. It's up to you as the designer to make the right call for the best play experience. If you are unsure which way to go on a particular option you might need to playtest with friends or spend a week with each option while you develop other features. Eventually you'll gain mastery of the topic and be able to make the right call.
 
