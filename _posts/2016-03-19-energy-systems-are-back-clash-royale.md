@@ -41,7 +41,7 @@ Now that we've had our salad, it's time for the meat and potatoes! What can we l
 
 ![comparison of machinations](/assets/cr-energy-systems/Energy-Systems-Are-Back-Clash-Royale-3.jpg)
 
-_(If you want an interactive version of the diagrams I've hosted one [here](/mirrors/clashroyalmachinations/){:target="_blank"}.)_
+_(If you want an interactive version of the diagrams I've hosted one [here](/mirrors/clashroyalmachinations/).)_
 
 The biggest difference is what happens when you win or lose. They're complete opposites! Candy Crush punishes you for losing; and after enough punishments you can't play anymore unless you wait or pay money. This is a heavily criticized aspect of energy systems. King is a business and needs to make money. But the only way to make this diagram work for King's business goals is to weigh outcomes towards losing. Candy Crush does exactly that. Level difficulty ebbs and flows, giving you a handful of fun levels before stopping you in your tracks with a level tuned too tightly to reasonably win. You're gonna need a little luck to beat that level. King's hope is that you will be compelled to pay them for more tries or for cheats that re-balance the difficulty more in your favor.
 

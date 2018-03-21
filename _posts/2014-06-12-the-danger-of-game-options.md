@@ -40,8 +40,8 @@ How does one little arrow threaten all that space? TowerFall gives each arrow a 
 
 The next fighting game concept you learn is the scrub. Scrub is not simply a derogatory term used to describe players with little skill. The scrub is well defined in Sirlin's <a title="Playing to Win" href="http://www.sirlin.net/ptw" target="_blank">Playing to Win</a> book, available for free online. From the book:
 
-<blockquote><span style="color: #323232;">A scrub is a player who is handicapped by self-imposed rules that the game knows nothing about.</span>
-</blockquote>
+> A scrub is a player who is handicapped by self-imposed rules that the game knows nothing about.
+
 If you were playing TowerFall with a scrub they might complain that an arrow which kills them via seeking is "cheap" or "unfair". In the gif below the cyan archer's arrow first curves up and then down to kill the orange archer. This shot is not possible without seeking arrows. Yet it is easy to see why this shot should succeed when imagining the threatened area diagram from earlier.
 
 <iframe style="display: block; margin-left: auto; margin-right: auto;" src="http://gfycat.com/iframe/HighMagnificentAlbertosaurus" width="480" height="360" frameborder="0" scrolling="no"></iframe>
@@ -60,16 +60,14 @@ When you allow players to undermine core design tenets, you fracture your player
 
 Matt Thorson was concerned that including the No Seeking Arrows option would fracture the competitive community and in a twitter conversation revealed he almost removed the option as a result.
 
-<blockquote class="twitter-tweet" lang="en" data-conversation="none"><a href="https://twitter.com/yayitsandrew">@yayitsandrew</a> <a href="https://twitter.com/kylepulver">@kylepulver</a> yeah this is why I almost took No Seeking Arrows out in the final release
+> @yayitsandrew @kylepulver yeah this is why I almost took No Seeking Arrows out in the final release
+&mdash; Matt Thorson (@MattThorson) [June 6, 2014](https://twitter.com/MattThorson/statuses/474809726132563968)
 
-&mdash; Matt Thorson (@MattThorson) <a href="https://twitter.com/MattThorson/statuses/474809726132563968">June 6, 2014</a>
-</blockquote>
-<script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>The reasoning behind keeping the option in is noble. One of Matt's design goals was that TowerFall be an inclusive game and therefore he didn't want to remove any option which improves accessibility. A dad who likes to play with his younger daughter might disable seeking arrows for only himself as a way to make the matches more fair. If the setting weren't available at all, the two might not be able to battle in a way that is enjoyable for dad. TowerFall also contains about 70 other game options that are pure arcade fun such as laser arrows that bounce off walls infinitely. Turning off seeking arrows might combine in interesting ways with those other options to create entirely new ways to play the game.
+The reasoning behind keeping the option in is noble. One of Matt's design goals was that TowerFall be an inclusive game and therefore he didn't want to remove any option which improves accessibility. A dad who likes to play with his younger daughter might disable seeking arrows for only himself as a way to make the matches more fair. If the setting weren't available at all, the two might not be able to battle in a way that is enjoyable for dad. TowerFall also contains about 70 other game options that are pure arcade fun such as laser arrows that bounce off walls infinitely. Turning off seeking arrows might combine in interesting ways with those other options to create entirely new ways to play the game.
 
-<blockquote class="twitter-tweet" lang="en" data-conversation="none"><a href="https://twitter.com/yayitsandrew">@yayitsandrew</a> <a href="https://twitter.com/kylepulver">@kylepulver</a> settled on adding the tournament rules presets instead
+> @yayitsandrew @kylepulver settled on adding the tournament rules presets instead
+&mdash; Matt Thorson (@MattThorson) [June 6, 2014](https://twitter.com/MattThorson/statuses/474809926418956288)
 
-&mdash; Matt Thorson (@MattThorson) <a href="https://twitter.com/MattThorson/statuses/474809926418956288">June 6, 2014</a>
-</blockquote>
 Keeping the option in the game negatively impacts the competitive scene but benefits casual play. This seems like an impasse. Matt's clever compromise was to add a button at the top of the settings page which turns on an explicit set of tournament rules -- rules which keeps seeking arrows enabled. This signals to the competitive community how they are meant to play the game without needing to remove the option entirely.
 
 Unfortunately this solution is not without its flaws. I occasionally encounter scrubs who wish to play with No Seeking Arrows on the competitive level. As a fun design exercise, consider what modifications you would make to solve this issue.
@@ -89,12 +87,12 @@ In each of these games the main problem is that a game option was added which gi
 
 37Signals, the software development team behind Basecamp, published a book called <a title="Getting Real" href="https://basecamp.com/books/Getting%20Real.pdf" target="_blank">Getting Real</a> which covers their software design principles. Many of them are also great game design and development advice. Here is a relevant section on preferences:
 
-<blockquote>You're faced with a tough decision: how many messages do we
+> You're faced with a tough decision: how many messages do we
 include on each page? Your first inclination may be to say, "Let's
 just make it a preference where people can choose 25, 50, or
 100." That's the easy way out though. Just make a decision.
 Preferences are a way to avoid making tough decisions.
-</blockquote>
+
 <img class="size-full wp-image-338 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/gmail_options.png" alt="gmail_options" width="524" height="439" />_Gmail hasn't read the 37Signals book_
 
 You should strive to have as few options in your game as possible. It's up to you as the designer to make the right call for the best play experience. If you are unsure which way to go on a particular option you might need to playtest with friends or spend a week with each option while you develop other features. Eventually you'll gain mastery of the topic and be able to make the right call.

@@ -4,7 +4,7 @@ title: Company Culture Is a Spectrum
 date: '2015-08-17 20:19:12 -0700'
 categories: workplaces
 ---
-The NY Times recently published an article covering [the concerning working conditions at Amazon](http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html){:target="_blank"}. It highlights past employees who talk about how Amazon's culture pushes people to the edges of their mental health and then pushes some more. 
+The NY Times recently published an article covering [the concerning working conditions at Amazon](http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html). It highlights past employees who talk about how Amazon's culture pushes people to the edges of their mental health and then pushes some more. 
 
 While that's concerning, in a systemic tech industry cancer sort of way, what's even more concerning is what happened after the article was published. First came an opinion piece from a current employee where they tried to disprove, discredit, or deny the experiences found in the original article. This piece quotes the past employees one by one and then follows up with some good old fashioned explainin' as if those past employees were mistaken in how they felt. As an example, where one past employee claims to have seen most of their co-workers cry at their desks, our brave Amazonian White Knight is quick to let us know that he's never seen anyone cry at their desk. He then condemns the past employee for not speaking up right away, as if it's that easy. 
 

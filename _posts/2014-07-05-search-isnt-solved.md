@@ -50,7 +50,7 @@ I added the musical group She & Him to my favorites. When I ask Xbox Music for r
 
 Music suggestions for people who like Zooey Deschanel and Lil Wayne. Good luck getting your recommendation engine to do anything with _that_ knowledge, Xbox Music.
 
-_(For the record, there is an album that meets these criteria. It's called [500 Days of Weezy](https://soundcloud.com/patrickmoberg/sets/500-days-of-weezy){:target="_blank"} and it's a mashup of the 500 Days of Summer soundtrack with Lil Wayne songs.)_
+_(For the record, there is an album that meets these criteria. It's called [500 Days of Weezy](https://soundcloud.com/patrickmoberg/sets/500-days-of-weezy) and it's a mashup of the 500 Days of Summer soundtrack with Lil Wayne songs.)_
 
 ## Examples of Good Concierge Search
 
