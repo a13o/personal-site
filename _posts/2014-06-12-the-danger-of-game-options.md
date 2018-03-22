@@ -78,11 +78,10 @@ Unfortunately this solution is not without its flaws. I occasionally encounter s
 
 So far we've gone into great detail on the TowerFall case study but you can probably think of lots of other games that fragmented their player base by providing options. Here's a few famous ones that come to mind:
 
-<ol>
-<li>Super Smash Bros Melee lets you turn off all items.</li>
-<li>Team Fortress 2 allows server mods which increases max players from 24 to 32 and decreases respawn timers from 20 seconds to 5.</li>
-<li>A popular Beer Pong rule doesn't count your shot if your elbow is over the table.</li>
-</ol>
+1. Super Smash Bros Melee lets you turn off all items.
+1. Team Fortress 2 allows server mods which increases max players from 24 to 32 and decreases respawn timers from 20 seconds to 5.
+1. A popular Beer Pong rule doesn't count your shot if your elbow is over the table.
+
 In each of these games the main problem is that a game option was added which gives players control over the behavior of a core design tenet. Items are an integral part of balancing Smash Bros characters, kind of a global move-set that homogenizes the characters. Take items out and you end up with the current Smash Bros competitive scene, which is playable with only 8 of the 26 characters on 5 of the 29 stages. Choke points are necessary for tension in Team Fortress 2 maps and those choke points become unbalanced and never-ending when too many players spawn too quickly. Beer Pong's elbow rule is completely unenforceable without a replay camera and leads to plenty of arguments and animosity.
 
 ### So Don't Have Options
