@@ -1,20 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: Shut Up Everybody!
-author:
- display_name: Andrew Pellerano
- login: admin
- email: yayitsandrew@gmail.com
- url: http://www.yayitsandrew.com
-author_login: admin
-author_email: yayitsandrew@gmail.com
-author_url: http://www.yayitsandrew.com
-wordpress_id: 213
-wordpress_url: http://yayitsandrew.com/?p=213
 date: '2013-06-08 09:42:44 -0700'
-date_gmt: '2013-06-08 17:42:44 -0700'
+categories: side-project
 ---
 The internet is full of opinions. If you're like me you can't help but wade into the comments thread on a controversial blog post. It's a guilty pleasure. Wouldn't it be nice if a computer could detect the most inane opinions and protect you from seeing them at all?
 
@@ -30,7 +18,7 @@ And if you're wondering what excellent conversation Mr. Gunneh and EdgeX are hav
 
 Mission friggin' accomplished.
 
-<a href="https://chrome.google.com/webstore/detail/shut-up-everybody/fblbhjoaifndkejdmllpimdpgmhddheg" target="_blank">Get it from the Chrome Web Store by clicking here.</a>
+[Get it from the Chrome Web Store by clicking here.](https://chrome.google.com/webstore/detail/shut-up-everybody/fblbhjoaifndkejdmllpimdpgmhddheg)
 
 # Unintended Consequences
 
@@ -44,5 +32,4 @@ There's going to be an upper limit to what I can do with DOM parsing, however. T
 
 The overzealous nature of the heuristic hasn't been without benefit. A few of the blog sites I frequent ended up getting large parts of their _article content_ redacted. I wasn't expecting that! The implications are profound. It turns out I'm reading lots of sites that I consider news sites, but are really opinion rags. What's worse is the articles that get their content redacted are the same ones that have the most pageviews and most comments.
 
-I've stumbled onto a seedy motivator in the world of online journalism. I have a solution to that too, which you can read in my blog post about <a href="http://yayitsandrew.com/creating-accountability-for-opinions-on-the-internet/">creating accountability for opinions on the internet</a>.
-
+I've stumbled onto a seedy motivator in the world of online journalism. I have a solution to that too, which you can read in my blog post about [creating accountability for opinions on the internet](creating-accountability-for-opinions-on-the-internet.html).

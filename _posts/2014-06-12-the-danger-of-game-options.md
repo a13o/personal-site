@@ -4,11 +4,11 @@ title: The Danger of Game Options
 date: '2014-06-12 06:01:50 -0700'
 categories: game-design
 ---
-There's a game night at the Folsom St Foundry every Tuesday in San Francisco. <a title="Showdown e-sports" href="https://www.facebook.com/showdownesports" target="_blank">Organizers</a> fill the block-sized event space with board games strewn across a dozen tables and hook up over twenty consoles running popular multiplayer games. In such a competitive mecca, could you conceive a scenario where two game experts are not able to play each other fairly?
+There's a game night at the Folsom St Foundry every Tuesday in San Francisco. <a title="Showdown e-sports" href="https://www.facebook.com/showdownesports">Organizers</a> fill the block-sized event space with board games strewn across a dozen tables and hook up over twenty consoles running popular multiplayer games. In such a competitive mecca, could you conceive a scenario where two game experts are not able to play each other fairly?
 
 I can, and it's due to the danger of game options.
 
-I play <a title="TowerFall: Ascension" href="http://www.towerfall-game.com/" target="_blank">TowerFall</a> at this game night every time I go. It's a game where you're an archer and you try to kill the other archers. It was designed by <a title="Matt Thorson on Twitter" href="https://twitter.com/mattthorson" target="_blank">Matt Thorson</a> to play like any competitive fighter: matches are primarily about positioning with lots of room for head games, counters, and complex feats of dexterity.
+I play <a title="TowerFall: Ascension" href="http://www.towerfall-game.com/">TowerFall</a> at this game night every time I go. It's a game where you're an archer and you try to kill the other archers. It was designed by <a title="Matt Thorson on Twitter" href="https://twitter.com/mattthorson">Matt Thorson</a> to play like any competitive fighter: matches are primarily about positioning with lots of room for head games, counters, and complex feats of dexterity.
 
 <img class="size-full wp-image-306 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf.png" alt="tf" width="513" height="384" />_This is TowerFall_
 
@@ -16,7 +16,7 @@ Before talking generally about the danger of game options let's dive into a spec
 
 ### Fighting Game 101: Threatened Space
 
-As a fighting game student you learn about concepts like positioning and threatened space. Here is a screenshot from the Super Street Fighter II: Turbo tutorial made by <a title="David Sirlin on Twitter" href="https://twitter.com/Sirlin" target="_blank">David Sirlin</a>, a prolific writer on competitive fighting game strategy. You can watch the whole tutorial video on <a title="Super Turbo Tutorial 1" href="https://www.youtube.com/watch?v=d0cFs5mHQC4" target="_blank">YouTube</a>.
+As a fighting game student you learn about concepts like positioning and threatened space. Here is a screenshot from the Super Street Fighter II: Turbo tutorial made by <a title="David Sirlin on Twitter" href="https://twitter.com/Sirlin">David Sirlin</a>, a prolific writer on competitive fighting game strategy. You can watch the whole tutorial video on <a title="Super Turbo Tutorial 1" href="https://www.youtube.com/watch?v=d0cFs5mHQC4">YouTube</a>.
 
 <img class="size-full wp-image-305 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/st_threatened_space.png" alt="st_threatened_space" width="376" height="256" />
 
@@ -38,7 +38,7 @@ How does one little arrow threaten all that space? TowerFall gives each arrow a 
 
 ### Fighting Game 102: The Scrub
 
-The next fighting game concept you learn is the scrub. Scrub is not simply a derogatory term used to describe players with little skill. The scrub is well defined in Sirlin's <a title="Playing to Win" href="http://www.sirlin.net/ptw" target="_blank">Playing to Win</a> book, available for free online. From the book:
+The next fighting game concept you learn is the scrub. Scrub is not simply a derogatory term used to describe players with little skill. The scrub is well defined in Sirlin's <a title="Playing to Win" href="http://www.sirlin.net/ptw">Playing to Win</a> book, available for free online. From the book:
 
 > A scrub is a player who is handicapped by self-imposed rules that the game knows nothing about.
 
@@ -61,12 +61,14 @@ When you allow players to undermine core design tenets, you fracture your player
 Matt Thorson was concerned that including the No Seeking Arrows option would fracture the competitive community and in a twitter conversation revealed he almost removed the option as a result.
 
 > @yayitsandrew @kylepulver yeah this is why I almost took No Seeking Arrows out in the final release
-&mdash; Matt Thorson (@MattThorson) [June 6, 2014](https://twitter.com/MattThorson/statuses/474809726132563968)
+>
+> &mdash; Matt Thorson (@MattThorson) [June 6, 2014](https://twitter.com/MattThorson/statuses/474809726132563968)
 
 The reasoning behind keeping the option in is noble. One of Matt's design goals was that TowerFall be an inclusive game and therefore he didn't want to remove any option which improves accessibility. A dad who likes to play with his younger daughter might disable seeking arrows for only himself as a way to make the matches more fair. If the setting weren't available at all, the two might not be able to battle in a way that is enjoyable for dad. TowerFall also contains about 70 other game options that are pure arcade fun such as laser arrows that bounce off walls infinitely. Turning off seeking arrows might combine in interesting ways with those other options to create entirely new ways to play the game.
 
 > @yayitsandrew @kylepulver settled on adding the tournament rules presets instead
-&mdash; Matt Thorson (@MattThorson) [June 6, 2014](https://twitter.com/MattThorson/statuses/474809926418956288)
+>
+> &mdash; Matt Thorson (@MattThorson) [June 6, 2014](https://twitter.com/MattThorson/statuses/474809926418956288)
 
 Keeping the option in the game negatively impacts the competitive scene but benefits casual play. This seems like an impasse. Matt's clever compromise was to add a button at the top of the settings page which turns on an explicit set of tournament rules -- rules which keeps seeking arrows enabled. This signals to the competitive community how they are meant to play the game without needing to remove the option entirely.
 
@@ -85,7 +87,7 @@ In each of these games the main problem is that a game option was added which gi
 
 ### So Don't Have Options
 
-37Signals, the software development team behind Basecamp, published a book called <a title="Getting Real" href="https://basecamp.com/books/Getting%20Real.pdf" target="_blank">Getting Real</a> which covers their software design principles. Many of them are also great game design and development advice. Here is a relevant section on preferences:
+37Signals, the software development team behind Basecamp, published a book called <a title="Getting Real" href="https://basecamp.com/books/Getting%20Real.pdf">Getting Real</a> which covers their software design principles. Many of them are also great game design and development advice. Here is a relevant section on preferences:
 
 > You're faced with a tough decision: how many messages do we
 include on each page? Your first inclination may be to say, "Let's
@@ -102,4 +104,3 @@ You should strive to have as few options in your game as possible. It's up to yo
 When designing a multiplayer game be aware that by providing game options, through nothing more than human nature, you are giving your players the tools they need to avoid playing with one another. You are actively working against the virality and social effects you are counting on to cultivate and grow a multiplayer scene. This is the danger of game options.
 
 As for the TowerFall design exercise I mentioned earlier, I think the best solution would have been to create two top level game modes called Competitive Versus and Arcade Versus. Competitive Versus provides no option controls and locks the options to the official tournament rules. Arcade Versus is the existing versus mode with options controls. This creates two environments that explicitly state their purpose upfront and allow Matt to have authoritative control over the competitive design vision.
-
