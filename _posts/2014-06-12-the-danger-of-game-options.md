@@ -4,41 +4,42 @@ title: The Danger of Game Options
 date: '2014-06-12 06:01:50 -0700'
 categories: game-design
 ---
-There's a game night at the Folsom St Foundry every Tuesday in San Francisco. <a title="Showdown e-sports" href="https://www.facebook.com/showdownesports">Organizers</a> fill the block-sized event space with board games strewn across a dozen tables and hook up over twenty consoles running popular multiplayer games. In such a competitive mecca, could you conceive a scenario where two game experts are not able to play each other fairly?
+There's a game night at the Folsom St Foundry every Tuesday in San Francisco. [Organizers](http://www.showdown.gg/) fill the block-sized event space with board games strewn across a dozen tables and hook up over twenty consoles running popular multiplayer games. In such a competitive mecca, could you conceive a scenario where two game experts are not able to play each other fairly?
 
 I can, and it's due to the danger of game options.
 
-I play <a title="TowerFall: Ascension" href="http://www.towerfall-game.com/">TowerFall</a> at this game night every time I go. It's a game where you're an archer and you try to kill the other archers. It was designed by <a title="Matt Thorson on Twitter" href="https://twitter.com/mattthorson">Matt Thorson</a> to play like any competitive fighter: matches are primarily about positioning with lots of room for head games, counters, and complex feats of dexterity.
+I play [TowerFall](http://www.towerfall-game.com/) at this game night every time I go. It's a game where you're an archer and you try to kill the other archers. It was designed by [Matt Thorson](http://www.mattmakesgames.com/) to play like any competitive fighter: matches are primarily about positioning with lots of room for head games, counters, and complex feats of dexterity.
 
-<img class="size-full wp-image-306 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf.png" alt="tf" width="513" height="384" />_This is TowerFall_
+<img src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf.png"/>
+_This is TowerFall_
 
 Before talking generally about the danger of game options let's dive into a specific case study using TowerFall.
 
 ### Fighting Game 101: Threatened Space
 
-As a fighting game student you learn about concepts like positioning and threatened space. Here is a screenshot from the Super Street Fighter II: Turbo tutorial made by <a title="David Sirlin on Twitter" href="https://twitter.com/Sirlin">David Sirlin</a>, a prolific writer on competitive fighting game strategy. You can watch the whole tutorial video on <a title="Super Turbo Tutorial 1" href="https://www.youtube.com/watch?v=d0cFs5mHQC4">YouTube</a>.
+As a fighting game student you learn about concepts like positioning and threatened space. Here is a screenshot from the Super Street Fighter II: Turbo tutorial made by [David Sirlin](http://www.sirlin.net/), a prolific writer on competitive fighting game strategy. You can watch the whole tutorial video on [YouTube](https://www.youtube.com/watch?v=d0cFs5mHQC4).
 
-<img class="size-full wp-image-305 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/st_threatened_space.png" alt="st_threatened_space" width="376" height="256" />
+<img src="http://yayitsandrew.com/wp-content/uploads/2014/06/st_threatened_space.png"/>
 
 Notice the red rectangle, this shows the space Ryu (on the right) threatens with his fireball move. The idea is that you want to keep players in space you threaten while staying out of space they threaten. The long reach of Ryu's fireballs means Ryu can stay safely across the screen and out of reach of many of his opponent's attacks. Consequently, playing against Ryu means learning how to dodge fireballs long enough to close the gap and force Ryu into spaces you threaten.
 
 Let's look at TowerFall's orange archer, about to shoot an arrow. What area do you think he threatens?
 
-<img class="size-full wp-image-307 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf_threatened_space.png" alt="tf_threatened_space" width="413" height="332" />
+<img src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf_threatened_space.png"/>
 
 Arrows are small and you know how they behave in the real world so on first guess you might think the threatened space looks something like this:
 
-<img class="size-full wp-image-308 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf_threatened_space_autoaim_off.png" alt="tf_threatened_space_autoaim_off" width="413" height="332" />
+<img src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf_threatened_space_autoaim_off.png"/>
 
 That's a pretty small amount of space. In the Street Fighter example, Ryu was threatening a full third of the screen! TowerFall has way more space to move around in and smaller projectiles. If arrows threatened like this it would be too hard to hit anything and matches would take too long. So instead, an arrow in TowerFall threatens this much space:
 
-<img class="size-full wp-image-309 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf_threatened_space_autoaim_on.png" alt="tf_threatened_space_autoaim_on" width="413" height="332" />
+<img src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf_threatened_space_autoaim_on.png"/>
 
 How does one little arrow threaten all that space? TowerFall gives each arrow a slight amount of heat-seeking. If an opponent gets too close the arrow will begin to alter its velocity to lean towards the opponent. It would be a bad idea for the green archer to go anywhere into that triangle.
 
 ### Fighting Game 102: The Scrub
 
-The next fighting game concept you learn is the scrub. Scrub is not simply a derogatory term used to describe players with little skill. The scrub is well defined in Sirlin's <a title="Playing to Win" href="http://www.sirlin.net/ptw">Playing to Win</a> book, available for free online. From the book:
+The next fighting game concept you learn is the scrub. Scrub is not simply a derogatory term used to describe players with little skill. The scrub is well defined in Sirlin's [Playing to Win](http://www.sirlin.net/ptw) book, available for free online. From the book:
 
 > A scrub is a player who is handicapped by self-imposed rules that the game knows nothing about.
 
@@ -50,7 +51,7 @@ If you were playing TowerFall with a scrub they might complain that an arrow whi
 
 If all the scrub could do at this point is complain, the story would end. If they wish to continue playing TowerFall they have to make peace with seeking arrows. Unfortunately, TowerFall does just about the worst thing you could do in this situation. **TowerFall has a setting which disables seeking arrows.**
 
-<img class="size-full wp-image-315 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/no_seeking_variant.png" alt="no_seeking_variant" width="380" height="174" />
+<img src="http://yayitsandrew.com/wp-content/uploads/2014/06/no_seeking_variant.png"/>
 
 That setting legitimizes the scrub's complaint. They no longer have to learn. Instead they can say: "if the game lets you turn off seeking arrows, then it must be a valid way to play." In their mind, they have made TowerFall a more expert game by removing auto-aim for babies. In reality, they have undermined a core design tenet of the game. Remember that TowerFall only wishes to be a game about positioning and head games. It does not wish to be about parabolic trajectory simulation.
 
@@ -86,7 +87,7 @@ In each of these games the main problem is that a game option was added which gi
 
 ### So Don't Have Options
 
-37Signals, the software development team behind Basecamp, published a book called <a title="Getting Real" href="https://basecamp.com/books/Getting%20Real.pdf">Getting Real</a> which covers their software design principles. Many of them are also great game design and development advice. Here is a relevant section on preferences:
+37Signals, the software development team behind Basecamp, published a book called [Getting Real](https://basecamp.com/books/Getting%20Real.pdf) which covers their software design principles. Many of them are also great game design and development advice. Here is a relevant section on preferences:
 
 > You're faced with a tough decision: how many messages do we
 include on each page? Your first inclination may be to say, "Let's
@@ -94,7 +95,8 @@ just make it a preference where people can choose 25, 50, or
 100." That's the easy way out though. Just make a decision.
 Preferences are a way to avoid making tough decisions.
 
-<img class="size-full wp-image-338 aligncenter" src="http://yayitsandrew.com/wp-content/uploads/2014/06/gmail_options.png" alt="gmail_options" width="524" height="439" />_Gmail hasn't read the 37Signals book_
+<img src="http://yayitsandrew.com/wp-content/uploads/2014/06/gmail_options.png"/>
+_Gmail hasn't read the 37Signals book_
 
 You should strive to have as few options in your game as possible. It's up to you as the designer to make the right call for the best play experience. If you are unsure which way to go on a particular option you might need to playtest with friends or spend a week with each option while you develop other features. Eventually you'll gain mastery of the topic and be able to make the right call.
 

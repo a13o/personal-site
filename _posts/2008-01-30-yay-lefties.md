@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: YAY Lefties!
-date: '2008-07-24 08:12:35 -0700'
+date: '2008-01-30 02:21:14 -0800'
 categories: projects
 ---
 YAY Lefties is a small program that runs in your Windows tray and allows you to flip your mouse buttons with a simple keypress (default ctrl+f12) or through the tray icon.
