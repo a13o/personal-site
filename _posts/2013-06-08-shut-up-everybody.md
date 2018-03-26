@@ -10,11 +10,11 @@ I developed a simple heuristic to determine if something is inane. If a block of
 
 Next I built that heuristic in javascript and wrote a Chrome extension that will scan any page you're on and hide the offending text. At first it just made the text node invisible, but that's not fun. With a little more javascript we can have the plugin blacking out lines of text, like an excited FBI intern declassifying her first document. It looks like this:
 
-<img src="http://yayitsandrew.com/wp-content/uploads/2013/06/sue_redact_example_1.png" alt="Shut Up Everybody Redaction Example" width="307" height="143" class="aligncenter size-full wp-image-214" />
+![](assets/shut-up-everybody/sue_redact_example_1.png)
 
 And if you're wondering what excellent conversation Mr. Gunneh and EdgeX are having you can hover over the redacted bars to see through them:
 
-<img src="http://yayitsandrew.com/wp-content/uploads/2013/06/sue_redact_example_2.png" alt="Shut Up Everybody Redaction Example 2" width="307" height="143" class="aligncenter size-full wp-image-216" />
+![](assets/shut-up-everybody/sue_redact_example_2.png)
 
 Mission friggin' accomplished.
 
