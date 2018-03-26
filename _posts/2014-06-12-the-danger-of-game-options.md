@@ -10,7 +10,8 @@ I can, and it's due to the danger of game options.
 
 I play [TowerFall](http://www.towerfall-game.com/) at this game night every time I go. It's a game where you're an archer and you try to kill the other archers. It was designed by [Matt Thorson](http://www.mattmakesgames.com/) to play like any competitive fighter: matches are primarily about positioning with lots of room for head games, counters, and complex feats of dexterity.
 
-<img src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf.png"/>
+![](/assets/game-options/tf.png)
+
 _This is TowerFall_
 
 Before talking generally about the danger of game options let's dive into a specific case study using TowerFall.
@@ -19,21 +20,21 @@ Before talking generally about the danger of game options let's dive into a spec
 
 As a fighting game student you learn about concepts like positioning and threatened space. Here is a screenshot from the Super Street Fighter II: Turbo tutorial made by [David Sirlin](http://www.sirlin.net/), a prolific writer on competitive fighting game strategy. You can watch the whole tutorial video on [YouTube](https://www.youtube.com/watch?v=d0cFs5mHQC4).
 
-<img src="http://yayitsandrew.com/wp-content/uploads/2014/06/st_threatened_space.png"/>
+![](/assets/game-options/st_threatened_space.png)
 
 Notice the red rectangle, this shows the space Ryu (on the right) threatens with his fireball move. The idea is that you want to keep players in space you threaten while staying out of space they threaten. The long reach of Ryu's fireballs means Ryu can stay safely across the screen and out of reach of many of his opponent's attacks. Consequently, playing against Ryu means learning how to dodge fireballs long enough to close the gap and force Ryu into spaces you threaten.
 
 Let's look at TowerFall's orange archer, about to shoot an arrow. What area do you think he threatens?
 
-<img src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf_threatened_space.png"/>
+![](/assets/game-options/tf_threatened_space.png)
 
 Arrows are small and you know how they behave in the real world so on first guess you might think the threatened space looks something like this:
 
-<img src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf_threatened_space_autoaim_off.png"/>
+![](/assets/game-options/tf_threatened_space_autoaim_off.png)
 
 That's a pretty small amount of space. In the Street Fighter example, Ryu was threatening a full third of the screen! TowerFall has way more space to move around in and smaller projectiles. If arrows threatened like this it would be too hard to hit anything and matches would take too long. So instead, an arrow in TowerFall threatens this much space:
 
-<img src="http://yayitsandrew.com/wp-content/uploads/2014/06/tf_threatened_space_autoaim_on.png"/>
+![](/assets/game-options/tf_threatened_space_autoaim_on.png)
 
 How does one little arrow threaten all that space? TowerFall gives each arrow a slight amount of heat-seeking. If an opponent gets too close the arrow will begin to alter its velocity to lean towards the opponent. It would be a bad idea for the green archer to go anywhere into that triangle.
 
@@ -45,13 +46,13 @@ The next fighting game concept you learn is the scrub. Scrub is not simply a der
 
 If you were playing TowerFall with a scrub they might complain that an arrow which kills them via seeking is "cheap" or "unfair". In the gif below the cyan archer's arrow first curves up and then down to kill the orange archer. This shot is not possible without seeking arrows. Yet it is easy to see why this shot should succeed when imagining the threatened area diagram from earlier.
 
-<iframe style="display: block; margin-left: auto; margin-right: auto;" src="http://gfycat.com/iframe/HighMagnificentAlbertosaurus" width="480" height="360" frameborder="0" scrolling="no"></iframe>
+<iframe src="http://gfycat.com/iframe/HighMagnificentAlbertosaurus" width="480" height="360" frameborder="0" scrolling="no"></iframe>
 
 ### Now Things Get Ugly
 
 If all the scrub could do at this point is complain, the story would end. If they wish to continue playing TowerFall they have to make peace with seeking arrows. Unfortunately, TowerFall does just about the worst thing you could do in this situation. **TowerFall has a setting which disables seeking arrows.**
 
-<img src="http://yayitsandrew.com/wp-content/uploads/2014/06/no_seeking_variant.png"/>
+![](/assets/game-options/no_seeking_variant.png)
 
 That setting legitimizes the scrub's complaint. They no longer have to learn. Instead they can say: "if the game lets you turn off seeking arrows, then it must be a valid way to play." In their mind, they have made TowerFall a more expert game by removing auto-aim for babies. In reality, they have undermined a core design tenet of the game. Remember that TowerFall only wishes to be a game about positioning and head games. It does not wish to be about parabolic trajectory simulation.
 
@@ -95,7 +96,8 @@ just make it a preference where people can choose 25, 50, or
 100." That's the easy way out though. Just make a decision.
 Preferences are a way to avoid making tough decisions.
 
-<img src="http://yayitsandrew.com/wp-content/uploads/2014/06/gmail_options.png"/>
+![](/assets/game-options/gmail_options.png)
+
 _Gmail hasn't read the 37Signals book_
 
 You should strive to have as few options in your game as possible. It's up to you as the designer to make the right call for the best play experience. If you are unsure which way to go on a particular option you might need to playtest with friends or spend a week with each option while you develop other features. Eventually you'll gain mastery of the topic and be able to make the right call.
