@@ -15,11 +15,15 @@ The same argument can be made about game designs. The match-3 mechanic, populari
 Many people talk about the mobile market's race to the bottom on game pricing and the emergence of F2P practices as a result. Because games want to be free there is an interesting observation to be made: if you create a new commodity game design and attempt to sell it, someone else will give it away for free. Customers are going to prefer paying nothing to whatever it is you're charging and the free version will become more popular. Let's see it in action.
 
 Here is Threes, a popular new puzzle game that is a paid download. You probably have heard about it if you closely follow the games industry and frequently visit gaming news sites.
-<img src="http://yayitsandrew.com/wp-content/uploads/2014/03/threes_ranking.png" alt="threes_ranking" width="812" height="435" class="alignnone size-full wp-image-276" />
+
+![](/assets/avoiding-clones/threes_ranking.png)
+
 _Last couple weeks of Threes rankings_
 
 Threes is doing quite well for itself! It was even the #1 paid download during its launch week one month earlier. Now let's look at its clone, a game called 2048 released only a month after Threes.
-<img src="http://yayitsandrew.com/wp-content/uploads/2014/03/2048_ranking.png" alt="2048_ranking" width="812" height="432" class="alignnone size-full wp-image-275" />
+
+![](/assets/avoiding-clones/2048_ranking.png)
+
 _Last couple weeks of 2048 rankings_
 
 Up and away! 2048 is the #1 free download in the App Store. It's compared to Flappy Bird. It's written about by newspapers and covered by mainstream media outlets. It's also suspiciously similar to Threes.
@@ -34,7 +38,8 @@ The main problem with commodity game designs is the player has no investment in 
 
 Compare this to the literal king of commodity game designs, King. The whole point of the saga-style structure seen in Candy Crush Saga, Bubble Witch Saga, and many others is that King has taken a commodity game design (in this case match-3) and added a meta-game element to it that forces players to invest in their version of the commodity. Play Candy Crush Saga for a year straight and you might have reached level 132. If you left Candy Crush for some other clone you would have to start back at level 1.
 
-<img src="http://yayitsandrew.com/wp-content/uploads/2014/03/ccs_progress.jpg" alt="ccs_progress" width="1000" height="750" class="alignnone size-full wp-image-282" />
+![](/assets/avoiding-clones/ccs_progress.jpg)
+
 _Clone-protection advice, courtesy of King!_
 
 _(As an aside, it's important to note that even though the saga concept has gone on to be cloned by many other games it does not mean that it will ever become commoditized. The player investment prevents that from ever happening. While commoditization is one explanation for cloning there are also a myriad of other reasons why someone might clone a game that are not covered in this article.)_
