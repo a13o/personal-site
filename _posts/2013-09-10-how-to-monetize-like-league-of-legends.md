@@ -10,11 +10,12 @@ I mention the hobby property of LoL not as an explanation for how they make thei
 
 I know that's not very specific, so let me first dispel the most common LoL misconception and then go into detail on all the things they're doing right. If you want to know how to properly use LoL's monetization model, keep reading.
 
-
 # The Great LoL Misconception
 
 LoL doesn't monetize because they have a release cadence of new champions. They do make money because of the champion cadence but the cadence isn't _why_ they make their money. This goes back to the hobby thing. This is one of those hobby things. If you make a game and think you will get money with champion cadence, you will have to make another game. Because your game isn't a hobby and your cadence content isn't going to sell well enough to build a business.
-<img src="http://yayitsandrew.com/wp-content/uploads/2013/09/lol_newchamp.png" alt="lol_newchamp" width="245" height="294" class="aligncenter size-full wp-image-253" />
+
+![](/assets/monetize-lol/lol_newchamp.png)
+
 This is analogous to how World of Warcraft became popular and then we stomached an entire decade of me-too WoW-style games which wasted millions of dollars because they thought a subscription based MMO was a valid business model. It wasn't, WoW was just a hobby.
 
 # Actual Ways LoL Monetizes
@@ -31,12 +32,14 @@ Since they're tiny, to get an advantage you need a lot of runes. A high level pl
 
 So you need a lot of runes, no big deal, just buy them right? Let's look at the currencies you can spend in-game.
 
-<ul>
-<li>Champions - purchased with hard currency or soft currency</li>
-<li>Runes - purchased with soft currency only</li>
-</ul>
-<img src="http://yayitsandrew.com/wp-content/uploads/2013/09/lol_waterfall.png" alt="lol_waterfall" width="640" height="159" class="aligncenter size-full wp-image-246" />
-<img src="http://yayitsandrew.com/wp-content/uploads/2013/09/lol_waterfall_soft.png" alt="lol_waterfall_soft" width="685" height="188" class="aligncenter size-full wp-image-248" />
+
+* Champions - purchased with hard currency or soft currency
+* Runes - purchased with soft currency only
+
+![](/assets/monetize-lol/lol_waterfall.png)
+
+![](/assets/monetize-lol/lol_waterfall_soft.png)
+
 Wait you can't buy runes for hard currency? Nope. This is the core mechanic of the currency waterfall effect. If you want to be competitive you have to buy champions and runes. Since runes can only be purchased with soft currency, and you need so many runes that they can literally sink your soft currency for over 600 hours of gameplay, it's probably unwise to waste soft currency picking up champions. So you buy champions with hard currency. This is the most efficient way to get what you need to play the game at a high level.
 
 The game doesn't _tell you_ champions are only available for hard currency, but because of the cascading effect of all your soft currency being already sunk by runes, champions _may as well be only available for hard currency._
@@ -56,24 +59,24 @@ Once you can identify players as highly engaged -- those who play so regularly t
 LoL has some UI which lets you save configurations of 30 runes so that you don't have to equip them before every game. They're called rune pages. You start with only 2 of them. Since you could want a rune page for every champion you frequently play, and sometimes multiple rune pages for different ways to play a champion, by the time you're advanced at LoL the 2 pages will not be enough. It's trivial from a technological standpoint to allow for the creation of any number of rune pages to meet your needs, but this isn't what LoL does. Instead, they sell you more rune pages.
 
 You can buy them 1 at a time but they cost as much as a champion, and because of the currency waterfall effect you shouldn't waste soft currency on rune pages. You can also get a bundle of 7 pages for a hard currency discount.
-<img src="http://yayitsandrew.com/wp-content/uploads/2013/09/lol_pain.png" alt="lol_pain" width="339" height="229" class="aligncenter size-full wp-image-250" />
+
+![](/assets/monetize-lol/lol_pain.png)
+
 Since rune pages are not a problem until you're highly engaged, and highly engaged players won't quit the game over a lack of rune pages, it doesn't make sense to simply improve this facet of the game and give it away for free. Sometimes F2P isn't pretty.
 
 ## Remind Players They Are Being Inefficient
 
 Every match of LoL you play awards XP towards leveling up and soft currency to spend in the store. There's a lovely bar showing you how much you earned and where it came from. But hey, even when you win a game the bar is only half full? Why is the other half grayed out and telling me I missed out on some soft currency?
-<img src="http://yayitsandrew.com/wp-content/uploads/2013/09/lol_inefficiency.png" alt="LoL Inefficiency" width="578" height="154" class="aligncenter size-full wp-image-243" />
+
+![](/assets/monetize-lol/lol_inefficiency.png)
+
 In LoL you can buy soft currency accelerators for hard currency. One of them will double your soft currency winnings for 10 matches. Another will double all soft currency you earn for 24 hours. These are the only ways to get that missed reward and even though they are premium features you will be reminded after every match exactly how much you're missing out on.
 
 ## Every Other Textbook Trick
 
 LoL is also doing all the stuff you probably already know about; this is the stuff you could pick up with any business or marketing education. I won't go into detail on them but here's a list if you wanted to look them up separately.
 
-<ul>
-<li>Bundle best sellers with extraneous consumable add-ons so that you can raise the price and/or create value buys</li>
-<li>Discount or bundle old or unwanted content</li>
-<li>Add context sensitive purchasing prompts in the standard game flow</li>
-<li>Create vanity items that are prominently displayed to other players</li>
-</ul>
-Notice any other clever tricks? Share them in the comments.
-
+* Bundle best sellers with extraneous consumable add-ons so that you can raise the price and/or create value buys
+* Discount or bundle old or unwanted content
+* Add context sensitive purchasing prompts in the standard game flow
+* Create vanity items that are prominently displayed to other players
