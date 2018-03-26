@@ -62,13 +62,13 @@ When you allow players to undermine core design tenets, you fracture your player
 
 Matt Thorson was concerned that including the No Seeking Arrows option would fracture the competitive community and in a twitter conversation revealed he almost removed the option as a result.
 
-> @yayitsandrew @kylepulver yeah this is why I almost took No Seeking Arrows out in the final release
+> yeah this is why I almost took No Seeking Arrows out in the final release
 >
 > &mdash; Matt Thorson (@MattThorson) [June 6, 2014](https://twitter.com/MattThorson/statuses/474809726132563968)
 
 The reasoning behind keeping the option in is noble. One of Matt's design goals was that TowerFall be an inclusive game and therefore he didn't want to remove any option which improves accessibility. A dad who likes to play with his younger daughter might disable seeking arrows for only himself as a way to make the matches more fair. If the setting weren't available at all, the two might not be able to battle in a way that is enjoyable for dad. TowerFall also contains about 70 other game options that are pure arcade fun such as laser arrows that bounce off walls infinitely. Turning off seeking arrows might combine in interesting ways with those other options to create entirely new ways to play the game.
 
-> @yayitsandrew @kylepulver settled on adding the tournament rules presets instead
+> settled on adding the tournament rules presets instead
 >
 > &mdash; Matt Thorson (@MattThorson) [June 6, 2014](https://twitter.com/MattThorson/statuses/474809926418956288)
 

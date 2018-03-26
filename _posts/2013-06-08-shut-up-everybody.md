@@ -32,4 +32,4 @@ There's going to be an upper limit to what I can do with DOM parsing, however. T
 
 The overzealous nature of the heuristic hasn't been without benefit. A few of the blog sites I frequent ended up getting large parts of their _article content_ redacted. I wasn't expecting that! The implications are profound. It turns out I'm reading lots of sites that I consider news sites, but are really opinion rags. What's worse is the articles that get their content redacted are the same ones that have the most pageviews and most comments.
 
-I've stumbled onto a seedy motivator in the world of online journalism. I have a solution to that too, which you can read in my blog post about [creating accountability for opinions on the internet](creating-accountability-for-opinions-on-the-internet.html).
+I've stumbled onto a seedy motivator in the world of online journalism. I have a solution to that too, which you can read in my blog post about [creating accountability for opinions on the internet](creating-accountability-for-opinions-on-the-internet).
