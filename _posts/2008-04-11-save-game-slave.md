@@ -43,4 +43,3 @@ This system intentionally prevents the player from being able to branch their sa
 The best part of this hybrid system is that it can be centralized on the platform so that all games can utilize it without needing to write custom code to implement it. Players could even share snapshots with each other. Imagine sending a snapshot to your friend over Xbox Live with the message: "I got to Dracula before leveling my character's whip! Try and beat him!"
 
 Hopefully we'll see features like this on the next generation consoles, like the Wii-er, Xbox 720, and PlayStation 4.
-
