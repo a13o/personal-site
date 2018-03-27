@@ -8,6 +8,6 @@ YAY Lefties is a small program that runs in your Windows tray and allows you to 
 
 It can also optionally mirror your mouse cursors so that they are oriented properly for a lefty.
 
-[Download YAY Lefties!](/mirrors/yay_lefties_setup.zip)
+[Download YAY Lefties!](/assets/yay-lefties/yay_lefties_setup.zip)
 
 ![YAY Lefties screenshot](/assets/yay-lefties/screenshot.png)
