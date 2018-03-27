@@ -16,7 +16,7 @@
 title: a13o
 email: [REDACTED]
 description: >- # this means to ignore newlines until "baseurl:"
-  Thoughts and creative works.
+  Thoughts and creative works
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://a13o.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: a13o
