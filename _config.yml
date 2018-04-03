@@ -2,9 +2,9 @@
 title: a13o
 email: [REDACTED]
 author: Andrew Pellerano
-description: "Behold my creative works"
+description: Behold my creative works
 baseurl: ""
-url: "http://a13o.com"
+url: http://a13o.com
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -117,11 +117,12 @@ text:
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
+permalink:    /:title:output_ext
 paginate:     5
 sass:
   style: compressed
 plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
 
