@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Search Isn't Solved
-date: '2014-07-05 12:18:19 -0700'
+excerpt: Patterns and anti-patterns for searches when the user doesn't know where to start.
+date: 2014-07-05
 categories: internet
 ---
 Sometimes you'll hear people say that Search is a solved problem. It turns out that's not really true. What we've solved is a specific subset of Search where the person doing the searching already knows what it is they're looking for.

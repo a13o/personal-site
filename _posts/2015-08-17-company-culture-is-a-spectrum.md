@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Company Culture Is a Spectrum
-date: '2015-08-17 20:19:12 -0700'
+excerpt: The experience you have at work is not the same as your colleague's.
+date: 2015-08-17
 categories: workplaces
 ---
 The NY Times recently published an article covering [the concerning working conditions at Amazon](http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html). It highlights past employees who talk about how Amazon's culture pushes people to the edges of their mental health and then pushes some more. 

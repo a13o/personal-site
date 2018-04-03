@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Steam Refund - Friend or Foe?
-date: '2015-06-03 21:16:21 -0700'
+excerpt: Implementation details of Steam's refund flow give us a glimpse into how Valve views developers and customers.
+date: 2015-06-03
 categories: games-industry
 ---
 On Tuesday [Steam added a refund procedure](http://www.gamasutra.com/view/news/244947/Steam_now_offering_refunds.php) that allows you to get a full refund on any Steam game you've purchased in the last 14 days, for any reason, as long as you've played the game for less than 2 hours. On the surface this change brings Steam up to code in many European countries that require this by law. And it will certainly do right by players in every other country. But the sudden manner in which the refund program was announced and implemented has many developers asking: "Is this good for me?"

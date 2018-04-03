@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Kickstarter, or, Every Publisher's New Greenlight Process
-date: '2015-05-14 09:50:55 -0700'
+excerpt: Kickstarter provides an easy way to market test new game ideas. Are publishers being upfront enough when they do this?
+date: 2015-05-14
 categories: games-industry
 ---
 <iframe style="float: right; padding-left: 3em;" src="https://www.kickstarter.com/projects/iga/bloodstained-ritual-of-the-night/widget/card.html?v=2" width="220" height="420" frameborder="0" scrolling="no"></iframe>

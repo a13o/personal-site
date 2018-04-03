@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Energy Systems Are Back! Clash Royale"
-date: '2016-03-19 16:14:26 -0700'
+title: Energy Systems Are Back! Clash Royale
+excerpt: Supercell flips energy systems on their head and finds an implementation that works well for both developer and player.
+date: 2016-03-19
 categories: game-design
 ---
 Clash Royale is Supercell's latest hit and boy is it packing a surprise! Supercell has invented a brand new kind of energy system that doesn't punish players like traditional energy systems do. If you haven't played Clash Royale, it's a competitive game where two players go head-to-head in real time using customizable armies. Winning a match awards a locked chest and opening these chests gives you cards to improve your army. Chests take at least 3 hours to open, must be opened one at a time, and there's only room to hold four of them. This combination has the effect of creating an implicit energy system. Other deconstructions aren't going deep enough to study the relevance of this new design so let's see what we can learn!
