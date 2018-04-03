@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Making Players Listen to Your Dialogue
-date: '2008-02-07 13:28:07 -0800'
+excerpt: Use extrinsic motiviation to guide players toward your story.
+date: 2008-02-07
 categories: game-design
 ---
 This one is simple. If, during the early stages of the game, I talk to a character on my own free will and get rewarded with something worthwhile, I'm much more likely to talk to other characters looking for more handouts. A steady stream of dialogue rewards enforces this likelihood throughout the entire game.

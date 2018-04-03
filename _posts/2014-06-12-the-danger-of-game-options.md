@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Danger of Game Options
-date: '2014-06-12 06:01:50 -0700'
+excerpt: Too many config options in games could fracture a budding competitive scene.
+date: 2014-06-12
 categories: game-design
 ---
 There's a game night at the Folsom St Foundry every Tuesday in San Francisco. [Organizers](http://www.showdown.gg/) fill the block-sized event space with board games strewn across a dozen tables and hook up over twenty consoles running popular multiplayer games. In such a competitive mecca, could you conceive a scenario where two game experts are not able to play each other fairly?

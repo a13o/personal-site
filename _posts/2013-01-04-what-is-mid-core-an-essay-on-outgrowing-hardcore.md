@@ -1,7 +1,8 @@
 ---
 layout: post
 title: What is Mid-core? An Essay on Outgrowing Hardcore
-date: '2013-01-04 01:17:53 -0800'
+excerpt: As the games market gets more saturated, designers must hone their craft.
+date: 2013-01-04
 categories: game-design
 ---
 What is mid-core? Defining this buzzword is a hot topic in the games industry. Here's my favorite definition which I have honed through multiple talks with other developers.

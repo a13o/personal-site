@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Portal Guns are a Game Condiment
-date: '2008-02-07 23:39:10 -0800'
+excerpt: Certain mechanics, such as creating wormholes, work in a number of genres.
+date: 2008-02-07
 categories: game-design
 ---
 Valve's Portal has been reviewed to death. It's time to stop talking about the past and looking to the future. Is Portal a seminal game in our field? If so, how can we apply its ideas going forward?

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Creating Accountability for Opinions on the Internet
-date: '2013-05-25 22:01:21 -0700'
+excerpt: A way to track public claims and calculate integrity.
+date: 2013-05-25
 categories: internet
 ---
 Check out Part 1 of this piece, [Shut Up Everybody](shut-up-everybody).

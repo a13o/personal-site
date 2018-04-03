@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Everything You Know About Video Games is Wrong
-date: '2010-01-05 01:50:01 -0800'
+excerpt: The pool of game-players has grown so vast in recent years that traditional audiences are now niche audiences.
+date: 2010-01-05
 categories: game-design
 ---
 Look at that troll bait headline! To clarify a bit, everything you know about video games is actually right, but only when talking about a niche of game players. This niche is called hardcore gamers. What makes you wrong is when you try and apply all your insights about this niche, years of information gathered from thousands of hours playing games, to the much larger set of all game players in existence. A surprising amount of professionals are making this mistake RIGHT NOW. Not making this mistake actually puts you in a minority of people that are poised to be successful in the coming years of video game development.

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Bloody Fun Day
-date: '2009-03-13 18:07:52 -0700'
+excerpt: The development story behind the popular game where you play the Grim Reaper and kill cute things.
+date: 2009-03-13
 categories: projects
 ---
 Back in November I flew to San Diego to meet up with the rest of the Urbansquall team for our annual get together. This year's theme was a game in a week. We rented out two hotel rooms, opened the connecting door in the middle, and spent five days doing non-stop game making. The fruit of our labor was a demo for a little game we called Bloody Fun Day. After another couple weeks of updating the game in my free time, we were ready to release it into the wild. And what happened then?

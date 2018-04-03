@@ -1,7 +1,8 @@
 ---
 layout: post
 title: You Can't Afford to Work More Than 40 Hours
-date: '2011-10-16 03:09:23 -0700'
+excerpt: How to apply a popular money management solution to time management.
+date: 2011-10-16
 categories: workplaces
 ---
 Everyone knows that time is money. So why is it that money management and time management are two different topics? What happens when we apply an extremely common money management technique to time management? _Your entire life changes._

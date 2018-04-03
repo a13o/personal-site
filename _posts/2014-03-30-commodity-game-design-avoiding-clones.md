@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Commodity Game Design - Avoiding Clones
-date: '2014-03-30 20:01:07 -0700'
+excerpt: Certain game patterns are commodities and further design is needed to avoid competition from clones.
+date: 2014-03-30
 categories: game-design
 ---
 Why is game cloning seemingly on the rise? Combine F2P's focus on simple-yet-addictive gameplay with a lowered barrier on releasing games, and you get the perfect market forces for the commoditization of game designs. More people can bring the same game to market in less time than ever before. In this article we'll talk about what it means to be a commodity game design and what to do if you've made one.
@@ -30,7 +31,7 @@ Up and away! 2048 is the #1 free download in the App Store. It's compared to Fla
 
 These games share a commodity game design. It just so happens that Threes invented this game design, but consumers don't care about that. Since it's a commodity they just do price comparisons. One of them costs $1.99 and the other is Free. The free version, for no reason other than it's the free version of an excellent commodity design, will get lots of media attention and pop culture relevance. This will generate network effects and when all is said and done 2048 will see a number of users that is magnitudes greater than Threes.
 
-Is this fair? It's an irrelevant question. This pattern has been repeating itself on the App Store for years now. Scramble with Friends, while free, gates gameplays with an energy system. Competitor game Ruzzle lets players play as many games as they want as long as they sit through some ads. Guess who's on top now? Oh, and both games are a clone of the Boggle board game. This is the way the market is and the smart business man will adapt. If you design a game _and through your own internal analysis deem that it feels like a commodity_, you should at least release it for free. But surely we can do better than that, right?
+Is this fair? It's an irrelevant question. This pattern has been repeating itself on the App Store for years now. Scramble with Friends, while free, gates gameplays with an energy system. Competitor game Ruzzle lets players play as many games as they want as long as they sit through some ads. Guess who's on top now? Oh, and both games are a clone of the Boggle board game. This is the way the market is and the smart businessperson will adapt. If you design a game _and through your own internal analysis deem that it feels like a commodity_, you should at least release it for free. But surely we can do better than that, right?
 
 ### How to win with a commodity game design
 

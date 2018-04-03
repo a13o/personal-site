@@ -1,7 +1,8 @@
 ---
 layout: post
 title: When Alignment Doesn't Matter
-date: '2012-03-05 06:44:46 -0800'
+excerpt: Good/evil systems oversimplify the complexities of your character's arc.
+date: 2012-03-05
 categories: game-design
 ---
 Many games try to make character development interesting by allowing you to make good and evil decisions throughout the game. Here is a thought exercise: what do you get when a character makes a good choice, then an evil choice, then an evil choice, then three good choices? SW:TOR and many others will tell you this is a good character, completely eradicating the fact that at some point the character was evil twice.

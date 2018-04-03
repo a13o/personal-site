@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Fake Doors and Invisible Walls
-date: '2008-03-15 12:42:41 -0700'
+excerpt: Improving immersion around game world boundaries.
+date: 2008-03-15
 categories: game-design
 ---
 When playing video games, we tend to be more adventurous than we are in real life. Most people wouldn't even jiggle the handle on a mysterious door in the subway. Joe Bronx, on the other hand, well he's been a mob hitman for 20 years and he's not afraid of what's behind that door. Joe reaches for the handle and... what?! It's like this door isn't even here! Did someone paint a door here?

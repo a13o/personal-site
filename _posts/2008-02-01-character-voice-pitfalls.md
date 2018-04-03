@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Character Voice Pitfalls
-date: '2008-02-01 00:54:09 -0800'
+excerpt: The economics of believable voice acting can severely limit your character creation.
+date: 2008-02-01
 categories: game-design
 ---
 Games that allow customizable characters sometimes ask you to pick a voice for the character you're creating. If you've chosen a male character, for example, the game may offer you to pick whether you want your character to sound like a scruffy male, crazed male, pleasant male, or alien male. The problem is instantly noticeable. It turns out none of these voices fit the character you had in mind. Odds are you'll settle for the option that has the least noticeable voice acting or the one that is so absurd you'll laugh whenever your character talks. No matter your decision, you've already lost a degree of connection with your character. He's now just some dude that came off the character creation assembly line, instead of your in-game avatar.

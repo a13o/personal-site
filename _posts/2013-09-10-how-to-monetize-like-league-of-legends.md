@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to Monetize Like League of Legends
-date: '2013-09-10 22:37:08 -0700'
+excerpt: A breakdown of monetization techniques and why they work.
+date: 2013-09-10
 categories: game-design
 ---
 Want to make money like League of Legends? Be a hobby for millions of gamers worldwide. Every F2P game aspires to becoming a hobby and League of Legends has done it. Just like any other hobby you'll need to pony up a lump of cash to really get going. To LoL's credit, your early sessions are free. After that, you probably have expert friends that already play (and convinced you to start playing) who will tell you the best way to spend your money. But you're not really getting into it without eventually spending money. That'd be like trying to ski without buying gloves or a jacket!

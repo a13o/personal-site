@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Shut Up Everybody!
-date: '2013-06-08 09:42:44 -0700'
+excerpt: A chrome plugin that hides comments on the internet.
+date: 2013-06-08
 categories: projects
 ---
 The internet is full of opinions. If you're like me you can't help but wade into the comments thread on a controversial blog post. It's a guilty pleasure. Wouldn't it be nice if a computer could detect the most inane opinions and protect you from seeing them at all?

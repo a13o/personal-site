@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Age of Reality Work
-date: '2009-08-14 12:16:55 -0700'
+excerpt: When companies don't want to pay full price for creative work they may hold a 'competition' instead.
+date: 2009-08-14
 categories: internet
 ---
 As an indie developer I'm always keeping an eye out for independent game competitions to participate in. Alas, a new breed of competition has appeared. This new breed doesn't pay you in money, or critical reception like a real competition would. Instead, it pays you in vanity.
