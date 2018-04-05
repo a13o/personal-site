@@ -10,4 +10,4 @@ Previously I spent a decade in the games industry. I think my expertise in exper
 
 I don't write here often, a topic must really be burning in my mind for me to collect my thoughts in essay form. When I do write, be it essays or software, it will get posted here.
 
-The best way to keep in touch is to use this site's <a href="feed.xml">RSS</a>.
+The best way to keep in touch is to use this site's <a href="/feed.xml">RSS</a>.
