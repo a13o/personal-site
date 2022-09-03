@@ -8,14 +8,22 @@
 # How to set up a local environment
 
 ```pwsh
+# unelevated
 git clone https://github.com/a13o/personal-site.git
 winget install RubyInstallerTeam.RubyWithDevKit.3.1
 # as administrator
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope LocalMachine
 ridk install 3
 Set-ExecutionPolicy -ExecutionPolicy AllSigned -Scope LocalMachine
+# unelevated
+gem update
+cd personal-site
+bundle install
 ```
 
 # How to maintain dependencies
 
-1. 
+```pwsh
+bundle update
+# pray
+```
