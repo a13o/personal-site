@@ -27,3 +27,8 @@ bundle install
 bundle update
 # pray
 ```
+
+# How to local dev
+```pwsh
+bundle exec jekyll serve
+```
