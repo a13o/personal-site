@@ -24,7 +24,7 @@ Data + Algorithm = 🤑🤑📈
 
 You gave them, specifically them, your data and they ran quick sort on it. But you could have given your data to another spreadsheet software, or a text editing software, or a website with a text box, and they also would have quick sorted it for you. The algorithm is a commodity. You can get it from lots of places and the outcome is always the same, because there's only one way to alphabetically sort your list. The minimum viable software business then, is more than an algorithm. It's an algorithm plus access to data.
 
-I had to say 'access to data' because in the good old days the data was right next to you, etched onto platters. But now there's this thing of dubious value we call the internet, and with it you could put your data onto someone else's platters. Ever ask yourself who's platters your data is etched onto? Like what's that person's name? Anyway, your data is over _there_ now. And since you own the data, you get to say who can and can't access it. <span style="font-size:0.8rem">And also the people who own the platters get to say who can and can't access it.</span>
+I had to say 'access to data' because in the good old days the data was right next to you, etched onto platters. But now there's this thing of dubious value we call the internet, and with it you could put your data onto someone else's platters. Ever ask yourself whose platters your data is etched onto? Like what's that person's name? Anyway, your data is over _there_ now. And since you own the data, you get to say who can and can't access it. <span style="font-size:0.8rem">And also the people who own the platters get to say who can and can't access it.</span>
 
 Google Search goes one step further. What if you don't have to ask anyone for access to their data? What if there was data that **wants** to be accessed? An entire platter-mountain of consenting data. You could write a matchmaking algorithm that introduces data-wanters to data-havers!
 
@@ -48,7 +48,7 @@ Fantastic! But just in case you need a little more clarity, here's the hype cycl
 
 ![Gartner's hype cycle graph showing an innovation trigger, a sudden climb in expectations leading to the peak of inflated expectations, then rapidly descending into a trough of disillusionment](/assets/algorithms-commodity/hype_cycle.png)
 
-Who emerges from the trough, enlightened? Probably not the people running the algorithm. What about the people who own the training data? They could stand to make some money. What if you sold access to verifiably legal training data, alongside insurance against any legal rammifications when using the training data? Or what if you had a team of in-house artists generating a never-ending stream of novel training data, and all the algorithm did was scale their output? Those might work. Starting to sound like all the money's in the training data.
+Who emerges from the trough, enlightened? Probably not the people running the algorithm. What about the people who own the training data? They could stand to make some money. What if you sold access to verifiably legal training data, alongside insurance against any legal ramifications when using the training data? Or what if you had a team of in-house artists generating a never-ending stream of novel training data, and all the algorithm did was scale their output? Those might work. Starting to sound like all the money's in the training data.
 
 Everyone else, you're about to find out where all the VR helmets went.
 
