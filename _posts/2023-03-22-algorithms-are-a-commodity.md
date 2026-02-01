@@ -3,7 +3,7 @@ layout: post
 title: Algorithms are a Commodity
 excerpt: 
 date: 2023-03-22
-categories: internet
+categories: ai
 ---
 
 _or, Why your LLM Revenue Will Be Zero_

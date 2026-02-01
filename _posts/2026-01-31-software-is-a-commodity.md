@@ -3,7 +3,7 @@ layout: post
 title: Software is a Commodity
 excerpt: If you think you have a software moat, you don't.
 date: 2026-01-31
-categories: internet
+categories: ai
 ---
 
 A couple years ago I wrote from the cradle of LLMs about where I saw them heading. At that time I could make the case that [algorithms are a commodity]({% post_url 2023-03-22-algorithms-are-a-commodity %}), and I focused on how to position LLMs themselves as a new algorithm to be commodified.
