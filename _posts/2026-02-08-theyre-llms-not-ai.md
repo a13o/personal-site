@@ -2,7 +2,7 @@
 layout: post
 title: They're LLMs, Not AIs
 excerpt: Stop anthropomorphizing the wall of text generator.
-date: 2026-02-01
+date: 2026-02-08
 categories: ai
 ---
 
