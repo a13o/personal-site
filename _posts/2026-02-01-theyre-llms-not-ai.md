@@ -8,7 +8,7 @@ categories: ai
 
 As LLMs continue to work their way into more and more aspects of our lives, we find ourselves trying to describe them in terms of the world that came before. Marketers and hypesters front-run our own imagination with depictions of executive assistants, professional mentors, romantic partners (big 😬 y'all,) and life coaches. All these motivated metaphors have one thing in common. They seek to position LLMs as a kind of artificial life, with an intelligence of their own, to be commanded, respected, or even loved.
 
-This perspective gets summarized into two incredibly memetic letters: AI. But let's pump the breaks on that. If we were to approach LLMs with a clear mind, there are other perspectives more suited to describe their present day capabilities. Here is my personal favorite:
+This perspective gets summarized into two incredibly memetic letters: AI. But let's pump the brakes on that. If we were to approach LLMs with a clear mind, there are other perspectives more suited to describe their present day capabilities. Here is my personal favorite:
 
 It's a content generator.
 
@@ -43,7 +43,7 @@ And that makes them a lot like this other blog post generator we can't figure ou
   <figcaption>For fans of the <em>Severance</em> TV show, LLMs are honestly pretty much this.</figcaption>
 </figure>
 
-For some, the similarity between number files and brain wrinkles is an awful big hint that LLMs are giving 'intelligence'. But, isn't it just as likely to go in the other direction? Maybe whatever LLMs are, that's the base truth -- and **humans are like LLMs**.
+For some, the similarity between number files and brain wrinkles is an awfully big hint that LLMs are giving 'intelligence'. But, isn't it just as likely to go in the other direction? Maybe whatever LLMs are, that's the base truth -- and **humans are like LLMs**.
 
 There's an active debate between free will and hard-determinism for a reason. Nobody knows which one is correct. Maybe I'm just a big pile of numbers, parked at this cafe table with the smells and sounds of coffee at the top of my context window, generating the next sentence of this very blog.
 
@@ -51,7 +51,7 @@ To put it another way, we're just as likely to study how LLMs work and discover 
 
 ## So then why is everyone talking about AI?
 
-I hinted at this earlier. The AI narrative was spun by marketers and hypesters with skin in the game. They want your attention, your money, or both. They're not intersted in truth-seeking or level-setting. If calling things AI will kick your adrenal glands into gear, or pry your wallet open, they'll keep calling it AI.
+I hinted at this earlier. The AI narrative was spun by marketers and hypesters with skin in the game. They want your attention, your money, or both. They're not interested in truth-seeking or level-setting. If calling things AI will kick your adrenal glands into gear, or pry your wallet open, they'll keep calling it AI.
 
 To make sense of it all, I recommend breaking this down into two parts. (1) Is there evidence suggesting LLMs are AI? (2) What are the implications of having AI in society?
 
@@ -59,7 +59,7 @@ To make sense of it all, I recommend breaking this down into two parts. (1) Is t
 
 No. LLMs won't durably pass the Turing Test. They'll score some early wins within really controlled settings. Call it a first-mover's advantage. But humans are adaptable. Over time we'll all come to realize that no human can regurgitate a perfectly formatted recipe for fried chicken and then immediately provide a biographical summary of Geoffrey Hinton. Passing the Turing Test is more of a tightrope walk than a benchmark. If you're too booksmart you appear inhuman. Booksmart humans know that better than anyone. There's even already memes about the telltale signs of an LLM -- the em-dashes (oops!), the sycophantic backpedaling when challenged, and the cooking recipes shared in the middle of political debates.
 
-AI-hypesters would also have to square this away: if LLMs generating content is to be considered human-like, why is it that social media influencers, videographers, and musicians all decry their craft being referred to as 'content generation'? What was previously considered to be a sub-human devaluation of the artistic experience, can't suddenly be the proto-evidence of new intelligence. This probably explains why artists are the least under the spell of AI.
+AI-hypesters would also have to square this away: if LLMs generating content is to be considered human-like, why is it that social media influencers, videographers, and musicians all decry their craft being referred to as 'content generation'? What was previously considered to be a sub-human devaluation of the artistic experience can't suddenly be the proto-evidence of new intelligence. This probably explains why artists are the least under the spell of AI.
 
 Maybe LLMs are going to be a sub-system of some future AI, but they themselves are not AI. LLMs forget everything you just said to them the moment you launch a new instance. Once they're trained, the only way for them to store new knowledge is to bring it into their context window. No amount of caching and compressing the new knowledge will change the fact that an LLM has to share its learned experience with its reasoning space. Humans don't work that way.
 
@@ -67,7 +67,7 @@ There's other facets of the human experience we haven't yet seen from LLMs. A mo
 
 Humans also only experience time in one direction. If you say something hurtful to your friend, there's no going back to before you said it. But LLMs work that way. Did you mess up your prompt and get gobbledygook in the response? Hit undo and try a slightly better prompt from your last context checkpoint. The LLM will never know you said the other thing.
 
-I actually recommend that as one of the practical takeaways of this article. People who think they're talking to an AI will see a bad response from the LLM and write back. "That part is wrong, do it this way." Then they get a sycophantic meme response when the LLM caves and 180's its position in the next reply. But why are you wasting context window space with the LLM's initial bad response? Why risk the parts of its response that you did like decaying from regression to the mean effects? Instead, undo the context window to your last checkpoint and reprompt with stronger guidelines. That's what people who recognize they're prompting a content generator do.
+I actually recommend that as one of the practical takeaways of this article. People who think they're talking to an AI will see a bad response from the LLM and write back. "That part is wrong, do it this way." Then they get a sycophantic meme response when the LLM caves and 180's its position in the next reply. But why are you wasting context window space with the LLM's initial bad response? Why risk the parts of its response that you did like decaying from regression-to-the-mean effects? Instead, undo the context window to your last checkpoint and reprompt with stronger guidelines. That's what people who recognize they're prompting a content generator do.
 
 ## What are the implications of having AI in society?
 
@@ -77,7 +77,7 @@ We don't need AI before the jobs start disappearing. Algorithms take jobs all th
 
 It won't be AI either that brings the [anonymous internet]({% post_url 2024-09-07-make-another-internet %}) to its knees, so full of bot-generated content that it's impossible to find or converse with another human. All we need is inexpensive content generation, at the speed of attention. The internet was already full of bots anyway, and now all those bots are LLMs too. This is the premise of the Dead Internet Theory, a once conspiracy-theory turned inevitability.
 
-Last let's speak briefly of the AI intelligentia: a sturdy mix of moral philosophers, technocrats, and former neural network researchers. They are the ones clogging up all your podcast feeds with chatter about alignment problems, probabilistic armageddon, and artificial _general_ intelligence. (Our earlier ambiguous words have formed a thruple, how trendy![^2]) Every last one of these people is Mark Zuckerberg selling you the Metaverse.
+Last let's speak briefly of the AI intelligentsia: a sturdy mix of moral philosophers, technocrats, and former neural network researchers. They are the ones clogging up all your podcast feeds with chatter about alignment problems, probabilistic armageddon, and artificial _general_ intelligence. (Our earlier ambiguous words have formed a thruple, how trendy![^2]) Every last one of these people is Mark Zuckerberg selling you the Metaverse.
 
 Oh how I wish they were clogging the Hollywood script pipeline instead of my podcast feeds! I'd watch like, every single one of these movies. I live in none of them. I live in a world that has a blog post generator.
 
