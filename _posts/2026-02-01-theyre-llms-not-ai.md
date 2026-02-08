@@ -11,7 +11,7 @@ categories: ai
   <figcaption><em>"I am the great and powerful AI"</em></figcaption>
 </figure>
 
-As LLMs continue to work their way into more and more aspects of our lives, we find ourselves trying to describe them in terms of the world that came before. Marketers and hypesters front-run our own imagination with depictions of executive assistants, professional mentors, romantic partners (big yikes y'all,) and life coaches. All these motivated metaphors have one thing in common. They seek to position LLMs as a kind of artificial life, with an intelligence of their own, to be commanded, respected, or even loved.
+As LLMs continue to work their way into more and more aspects of our lives, we find ourselves trying to describe them in terms of the world that came before. Marketers and hypesters front-run our imaginations with depictions of executive assistants, professional mentors, romantic partners (big yikes y'all), and life coaches. All these motivated metaphors have one thing in common. They seek to position LLMs as a kind of artificial life, with an intelligence of their own, to be commanded, respected, or even loved.
 
 They refer to it as AI, short for science fiction's _artificial intelligence_, as a means of tapping into decades of storytelling, and filling their sails with unearned wind. If we were to emerge from Plato's cave and make untainted first contact with LLMs, we would describe them in much simpler terms. Here is my personal favorite:
 
@@ -25,7 +25,7 @@ You could certainly pretend that's what's happening, as I did in July of 2022 wh
   <img src="/assets/llms-not-ai/dalle_draw_urself.jpg" alt="Six results for a DALL-E prompt to draw itself. Clockwise from top-left: A honeybadger in a grass field, a pencil shaped clay character with a smiley face and domino pips on his stomach in front of a black background, a meerkat standing on a sidewalk, a wooden block figure with catlike features, a meerkat standing in front of a black background, a family of meerkats huddled among wooden branches.">
 </figure>
 
-Is DALL-E some kind of mongoose because it drew that four times? Is it an orphan because it drew that _five_ times? Is it a half-domino-half-pencil living in infinite darkness?[^1] It's none of these things of course, but it's fun to pretend!
+Is DALL-E some kind of meerkat because it drew that four times? Is it an orphan because it drew that _five_ times? Is it a half-domino-half-pencil living in infinite darkness?[^1] It's none of these things of course, but it's fun to pretend!
 
 LLMs that give text responses are not any different. They still take a prompt as input, same as DALL-E. But instead of outputting an image, it outputs a blog post.
 
@@ -77,7 +77,7 @@ There's other facets of the human experience we haven't yet seen from LLMs. A mo
 
 Humans also only experience time in one direction. If you say something hurtful to your friend, there's no going back to before you said it. But LLMs work that way. Did you mess up your prompt and get gobbledygook in the response? Hit undo and try a slightly better prompt from your last context checkpoint. The LLM will never know you said the other thing.
 
-I actually recommend that as one of the practical takeaways of this article. People who think they're talking to an AI will see a bad response from the LLM and write back. "That part is wrong, do it this way." But why are you wasting context window space with the LLM's initial bad response? Why risk the parts of its response that you did like decaying from regression-to-the-mean effects? Instead, undo the context window to your last checkpoint and reprompt with stronger guidelines. That's what people who recognize they're prompting a content generator do.
+I actually recommend that as one of the practical takeaways of this article. People who think they're talking to an AI will see a bad response from the LLM and write back. "That part is wrong, do it this way." But why are you wasting context window space with the LLM's initial bad response? Why risk letting the parts you did like drift in their retelling? Instead, undo the context window to your last checkpoint and reprompt with stronger guidelines. That's what people who recognize they're prompting a content generator do.
 
 ## What are the implications of having AI in society?
 
